@@ -1,0 +1,638 @@
+File,Sentence,String
+EN100700.xml,1,"A 17 months girl have been consulted in our service for colicky abdominal pain often associated with constipation and loss of appetite, since she was six months old."
+EN100700.xml,2," Parents kept her at home until they remarked visible peristalsis on the abdominal wall, which lead them to consult our service."
+EN100700.xml,3, She was born from a full-term and uncomplicated pregnancy during which the mother had no prenatal ultrasound (US).
+EN100700.xml,4, <duration her neonatal period <pad>x<pad><pad><pad><pad><pad><pad>> was unremarkable.
+EN100700.xml,5," Clinical findings: on physical examination, she was colored and active."
+EN100700.xml,6, Her vitals were within normal limits as well as her anthropometric parameters (weight: 10kg).
+EN100700.xml,7, Her abdomen had moderate distension and peristaltic waves were visible on the abdominal wall.
+EN100700.xml,8, Abdomen was soft on palpation and tympanic on percussion.
+EN100700.xml,9, The digital rectal examination was unremarkable.
+EN100700.xml,10," Symptomatic treatment was initiated with lactulose (five mL <set bid <pad><pad><pad>1<pad><pad><pad><pad>>  and an antispasmodic, trimebutine (five mL <set bid <pad><pad><pad>1<pad><pad><pad><pad>> ."
+EN100700.xml,11, Timeline: our patient experienced first symptoms since <date august 2019 2019 08<pad><pad><pad><pad><pad><pad><pad> > 
+EN100700.xml,12, Parents brought her at our service only on <date 27 th july 2020 2020 07<pad>27<pad><pad><pad><pad><pad>> <duration two days <pad><pad><pad>2<pad><pad><pad><pad>> after they remarked visible peristalsis on her abdominal wall.
+EN100700.xml,13, The patient has been treated and discharged in <date august 2020 2020 08<pad><pad><pad><pad><pad><pad><pad>> and pathology results were available <date 11 days later <pad><pad><pad>11<pad><pad><pad><pad>> 
+EN100700.xml,14, Diagnostic assessment: blood results were within normal range.
+EN100700.xml,15, Abdominal X-ray showed distension of an intestinal loop in the left lumbar region.
+EN100700.xml,16," Abdominal US identified a misleading colonic dilatation containing heterogeny echoic substance, with no other additional features."
+EN100700.xml,17, Contrast enema was unremarkable.
+EN100700.xml,18," Due to financial constraints, upper gastro-intestinal (GI) series and abdominal computed tomography (CT) could not be performed."
+EN100700.xml,19, An exploratory laparotomy has been indicated with presumptive diagnosis of intestinal duplication.
+EN100700.xml,20," Therapeutic intervention: after the median laparotomy, a dilatated segment of the jejunum was identified at approximately ten cm from the Treitz's angle."
+EN100700.xml,21," Its diameter was fourfold greater than of the adjacent bowel, to which the dilatation was connected abruptly, without any identified obstructive cause."
+EN100700.xml,22, It measured ten cm in length and had prominent serosal vessels.
+EN100700.xml,23, Adjacent mesentery was thickened.
+EN100700.xml,24, No further anatomic anomaly was identified.
+EN100700.xml,25," A resection of the dilatated portion was performed, followed by end-to-end jejunal anastomosis using Vicryl 3/0 in separate stitches."
+EN100700.xml,26, Follow-up and outcomes: microscopic examination revealed a lymphocytic infiltration of both layers of the muscularis propria.
+EN100700.xml,27, The dense lymphocytic infiltration was mainly constituted of T lymphocytes CD3+/8+ (C and D) and some B lymphocytes CD20+.
+EN100700.xml,28, Locally diminished actin coloration indicated atrophy of smooth muscle fibers.
+EN100700.xml,29, Nerve fibers and ganglion cells of myenteric and submucosal plexuses were intact with focalized absence of NK CD56+ cells around lymphocytic infiltration.
+EN100700.xml,30, No ectopic tissue was identified.
+EN100700.xml,31, The postoperative period was uneventful.
+EN100700.xml,32, The patient was on parenteral nutrition until <date day seven <pad><pad><pad>7<pad><pad><pad><pad>> postoperatively.
+EN100700.xml,33," She was discharged on <date day ten <pad><pad><pad>10<pad><pad><pad><pad>> and after <duration three months <pad>3<pad><pad><pad><pad><pad><pad>> of <set monthly <pad>1<pad><pad><pad><pad><pad><pad>> follow-up, colicky abdominal pain and chronic constipation had disappeared since <date the early postoperative days x<pad><pad><pad><pad><pad><pad><pad>> "
+EN100700.xml,34," For the future, the follow-up will be done on <set a three months basis <pad>3<pad><pad><pad><pad><pad><pad>> for <duration a year 1<pad><pad><pad><pad><pad><pad><pad>> and then, <set twice yearly 1<pad><pad><pad><pad><pad><pad><pad>> "
+EN103220.xml,1,"Here we report a case of aggressive metastatic cholangiocarcinoma (MCC) in 72-year-old man, sequentially treated with two targeted chemotherapies."
+EN103220.xml,2," Initially disease quickly progressed during best clinical practice care (gemcitabine in combination with cisplatin or capecitabine), which was accompanied by significant decrease of life quality."
+EN103220.xml,3," Monotherapy with TKI sorafenib was prescribed to the patient, which resulted in stabilization of tumor growth and elimination of pain."
+EN103220.xml,4," The choice of the inhibitor was made based on high-throughput screening of gene expression in the patient's tumor biopsy, utilized by Oncobox platform to build a personalized rating of potentially effective target therapies."
+EN103220.xml,5," However, time to progression after start of sorafenib administration did not exceed <duration 6 months <pad>6<pad><pad><pad><pad><pad><pad>> and the regimen was changed to monotherapy with Pazopanib, another TKI predicted to be effective for this patient according to the same molecular test."
+EN103220.xml,6, It resulted in disease progression according to RECIST with simultaneous elimination of sorafenib side effects such as rash and hand-foot syndrome.
+EN103220.xml,7," After <duration 2 years 2<pad><pad><pad><pad><pad><pad><pad>> from the diagnosis of MCC the patient was alive and physically active, which is substantially longer than median survival for standard therapy."
+EN100265.xml,1,A 36 year old female farmer gravida 5 para 4 at <duration 27 weeks <pad><pad>27<pad><pad><pad><pad><pad>> gestation presented to our facility.
+EN100265.xml,2," Her main complaint was a <duration 3 month <pad>3<pad><pad><pad><pad><pad><pad>> history of epigastric abdominal pain, which was gradual in onset, dull and persistent."
+EN100265.xml,3, Pain had gradually worsened over <duration the months <pad>x<pad><pad><pad><pad><pad><pad>> with no known relieving or aggravating factors but with intermittent radiation to the chest.
+EN100265.xml,4," There was a history of significant weight loss but no associated early satiety, jaundice, fever, itch or spontaneous bleeding."
+EN100265.xml,5, No history of blood transfusion and patient was on her routine hematinic from the antenatal clinic (ANC).
+EN100265.xml,6," She is not a known diabetic, Hypertensive and has no known chronic illness."
+EN100265.xml,7, Patient did not know her Hepatitis status.
+EN100265.xml,8, Denied to taking any alcohol or smoking.
+EN100265.xml,9, There were no cardiorespiratory nor urogenital symptoms.
+EN100265.xml,10, She did not store grains at home and had no known contact with chemicals or ionizing radiation.
+EN100265.xml,11,"
+Clinical signs on examination included wasting, mild pallor, a tinge of jaundice but well hydrated, afebrile and no palpable lymphnodes."
+EN100265.xml,12, She had palmer erythema but no clubbing and parotid enlargement.
+EN100265.xml,13," Respiratory, cardiovascular and neurological examinations were unremarkable."
+EN100265.xml,14, Abdomen was grossly distended with distorted contour in the upper half and visibly distended anterior abdominal wall veins draining away from the umbilicus.
+EN100265.xml,15, Liver was enlarged 12cm below the costal margin with a span of 17cm.
+EN100265.xml,16," The liver was hard, nodular with irregular edge, mild tendernes and had a bruit on auscultation."
+EN100265.xml,17, The spleen was not palpable but with demonstrable mild ascites and bipedal eodema up to the mid shin.
+EN100265.xml,18," Symphysio fundal height was 26 cm, with longitudinal lie and breech presentation."
+EN100265.xml,19, Fetal heart rate was 134 bpm and regular.
+EN100265.xml,20, Rectal and vaginal examination were unremarkable.
+EN100265.xml,21, Initial diagnosis of hepatocellular Carcinoma in pregnancy was made.
+EN100265.xml,22," Laboratory assesment revealed HB-10.3g/dl, WBC 10200 cells/dl; Neutrophils 59.3%, lymphocytes 26.1%, Monocytes 10.1% and Eosinophils 2.7%."
+EN100265.xml,23, Platelets 350000/ul.
+EN100265.xml,24, Normal bilirubin but GGT and AST were raised (4 times upper limit).
+EN100265.xml,25," Total protein and albumin were low, 44g/L and 29g/L respectively with INR-1.3.HBsAg was positive, HBeAg negative with HBV DNA level of 126869 IU/ml \(Viral load)."
+EN100265.xml,26, VDRL positive but TPHA not done.
+EN100265.xml,27, Alphafeto protein (AFP) >50000KU/L.
+EN100265.xml,28, She tested negative to HIV and HCV.
+EN100265.xml,29, Abdominal ultrasound showed a heterogeneous coarse liver with multiple hypoechoic lessions.
+EN100265.xml,30, The liver measured 17.2cm and there was mild ascites.
+EN100265.xml,31," Pelvic scan revealed a 27 week, 3 day old fetus, with active fetal movements."
+EN100265.xml,32, A revised diagnosis of hepatocellular carcinoma on a cirrhotic liver with decompensation in pregnancy was made.
+EN100265.xml,33," She was managed with analgesia, furosemide, spironolactone and lamivudine added for prevention of mother to child trasmission of the hepatitis B infection."
+EN100265.xml,34, The plan was to allow pregnancy to continue to <duration at least 32 completed weeks <pad><pad>32<pad><pad><pad><pad><pad>> to improve the chance of neonatal survival.
+EN100265.xml,35," However because of the progressive unbearable abdominal pain, pregnancy was terminated at <duration 30 weeks 3days <pad><pad>30.4<pad><pad><pad><pad><pad>> by successful induction of labour."
+EN100265.xml,36, The outcome was a fresh stillbirth weight 1.2kg.
+EN100265.xml,37, Pain was markedly reduced post delivery and was discharged home after <duration 5 days <pad><pad><pad>5<pad><pad><pad><pad>> 
+EN100265.xml,38, She was booked for a follow up visit at the gastrointestinal clinic.
+EN100265.xml,39, She was seen at the clinic at <duration 2 weeks <pad><pad>2<pad><pad><pad><pad><pad>> and <duration four weeks post discharge <pad><pad>4<pad><pad><pad><pad><pad>> but was lost to follow up afterwards.
+EN100705.xml,1,"We report the case of a male patient, 79 years old, diabetic for <duration 10 years 10<pad><pad><pad><pad><pad><pad><pad>> on metformin, hypertensive for <duration 5 years 5<pad><pad><pad><pad><pad><pad><pad>> on amilodipine; occasional alcoholic weaned <date 4 years ago <pad><pad><pad><pad>resta 04 y<pad><pad>> "
+EN100705.xml,2, He was initially admitted for mental confusion with sudden onset dysarthria dating back <duration 48 hours <pad><pad><pad><pad>48<pad><pad><pad>> before.
+EN100705.xml,3," Initial assessment found Glasgow score (GCS) of 12/15 (eye opening at 5, verbal response at 2, motor response at 5), symmetrical and reactive pupils, without feeling-motor deficit, normal osteotendinous reflexes, slightly polypneic at 24 cycles/min, pulsed oxygen saturation (SpO 2) at 97% in ambient air, he was tachycardic at 115 bpm and hypertensive at 160/95 mmHg, his capillary blood glucose at 2.24 g/L, and glycosuria on the urine dipstick test without ketonuria."
+EN100705.xml,4, The patient was apyretic.
+EN100705.xml,5," Arterial gas testing showed normal corrected anion gap metabolic acidosis, with hypokalaemia at 3 mmol/L and normal lactatemia at 0.43 mmol/L."
+EN100705.xml,6, Diagnosis of diabetes decompensation was made despite absence of ketone bodies on urine dipstick test.
+EN100705.xml,7," After conditioning, the patient was put on a hydration regimen with hypokalaemia correction and insulin therapy, and then referred to intensive care for additional management in face of non-improvement in his neurological condition."
+EN100705.xml,8," A brain scan was performed objectifying multiple parietal ischemic foci, chest scanner showed a thickening of the septal and foci of bronchial dilation without sign of pneumopathy linked to COVID-19 infection; abdominal ultrasound did not show any abnormalities."
+EN100705.xml,9," An electrocardiogram was performed showing no electrical signs of hypokalaemia or repolarization disturbances, transthoracic echocardiography was normal, as was ultrasound of supraortic trunks."
+EN100705.xml,10," Laboratory workup showed an elevated C-reactive protein (CRP) of 45.5 with negative procalcitonin (0.04 ng/ml), white blood cells at 12,500 (PNN at 9280 and normal lymphocytes at 2140), no thrombocytopenia, normal ferritinemia, fibrinogen levels elevated to 5.37 and negative D-dimers."
+EN100705.xml,11," Natremia, magnesemia, corrected serum calcium, phosphoremia and thyroid assessment was normal."
+EN100705.xml,12," SARS-CoV-2 reverse transcription polymerase chain reaction (RT-PCR) by nasopharyngeal swab was negative, COVID-19 serology (IgM and IgG) was also negative."
+EN100705.xml,13," Faced with concept of ischemic lesions on a brain scan, anticoagulation at a prophylactic dose, antiplatelet aggregation with aspirin and statins were initiated as well as an antibiotic therapy at a meningeal dose with ceftriaxone pending results of the lumbar puncture which subsequently showed a clear liquid with a high proteinorachia at 0.58g/l (normal between 0.15 and 0.45), a normal glycorachia/blood sugar ratio at 0.58 (normal at 0.5); with a culture showing less than 3 elements, sterile after <duration 24 hours <pad><pad><pad>1<pad><pad><pad><pad>> "
+EN100705.xml,14," Cerebral Magnetic resonance angiography performed on <date day 2 <pad><pad><pad>2<pad><pad><pad><pad>> of admission showed signs in favor of vascular leukopathy, with some calcifications in basal ganglia and cortical atrophy."
+EN100705.xml,15," Electroencephalogram showed signs of epilepsy, which prompted us to retain the diagnosis of nonketotic hyperglycemia-related epileptic seizures."
+EN100705.xml,16, Anticonvulsant treatment was started with sodium valproate.
+EN100705.xml,17," The Patient worsened neurologically despite correction of his metabolic acidosis, he was intubated on <date day 3 <pad><pad><pad>3<pad><pad><pad><pad>> of his admission (<set day 5 of symptoms onset <pad><pad><pad>5<pad><pad><pad><pad>> ."
+EN100705.xml,18, A cerebral computerized tomography (CT) scan was performed without showing any progressive lesions.
+EN100705.xml,19," Faced with installation of lymphopenia (HIV serologies 1 and 2 negative) with increased CRP, a multiplex RT-PCR in protected distal bronchial sample as well as in Cerebrospinal fluid (CSF) were performed, the first was positive to SARS-CoV-2."
+EN100705.xml,20, Reverse transcription polymerase chain reaction of SARS-CoV-2 in CSF was positive but with a cycle threshold (CT) of 38.6.
+EN100705.xml,21, The diagnosis of SARS-CoV-2 encephalopathy was retained.
+EN100705.xml,22, The patient is still in intensive care.
+EN100466.xml,1,"A 34-year-old recently diagnosed HIV positive para 4 was referred to us with a <duration 2-month <pad>2<pad><pad><pad><pad><pad><pad>> history of abdominal pain, abdominal distension and backache which had worsened <date 2 weeks <pad><pad><pad><pad>resta 02 w<pad><pad>> prior to presentation."
+EN100466.xml,2," She also had pain on defecation, night sweats and fever."
+EN100466.xml,3," On examination she looked ill, in respiratory distress with a respiratory rate of 28 breaths per min."
+EN100466.xml,4, She was febrile with a temperature of 38.2 0 C and had unilateral leg swelling.
+EN100466.xml,5, The abdomen was asymmetrically distended with an abdominopelvic mass of about 30 weeks size.
+EN100466.xml,6," The mass was firm, immobile with an irregular surface not attached to overlying skin."
+EN100466.xml,7, There was no ascites and no hepatosplenomegaly.
+EN100466.xml,8, The cervix looked grossly normal but was displaced anteriorly.
+EN100466.xml,9, Digital rectal examination revealed a mass in the pouch of Douglas not involving the rectal mucosa.
+EN100466.xml,10, Examination of the other systems was normal.
+EN100466.xml,11," Investigations showed a haemoglobin of 6.5g/dl (NR 12-14g/dl), a slightly elevated cancer antigen 125 of 44U/ml (NR 0-35), serum beta human chorionic gonadotropin (HCG) of 0.258mIU/ml (NR 0-5) and alpha fetoprotein of 7 ng/ml (NR < 10)."
+EN100466.xml,12, Her CD4 count was 63cells/mm 3.
+EN100466.xml,13, Her renal and hepatic function tests were normal.
+EN100466.xml,14," An ultrasound scan showed a solid mass measuring 19.6cm x 12.5cm, posterior to the uterine fundus and extending to the left adnexa."
+EN100466.xml,15, The uterus and its endometrium were normal.
+EN100466.xml,16, Doppler ultrasound scan of the right lower limb showed no evidence of thrombosis and her chest X-ray showed perihilar lymphadenopathy.
+EN100466.xml,17, The patient was taken for surgical exploration and staging for ovarian malignancy.
+EN100466.xml,18, At laparotomy there was a left ovarian mass attached to a bulky uterus and sigmoid colon.
+EN100466.xml,19, The right ovary was enlarged to about 10cm diameter.
+EN100466.xml,20, The left fallopian tube and ovary could not be distinguished and separated from the tumour.
+EN100466.xml,21, The rest of the abdominal organs and omentum looked grossly normal.
+EN100466.xml,22, There was no ascites.
+EN100466.xml,23, Tumour was friable and was removed by blunt and sharp dissection.
+EN100466.xml,24," Total abdominal hysterectomy, bilateral adnexectomy and infracolic omentectomy were done."
+EN100466.xml,25, The general surgeons were present and they did a sigmoidectomy and a Hartmann's procedure.
+EN100466.xml,26, She had enlarged retroperitoneal lymph nodes which were not dissected to reduce intraoperative bleeding and postoperative morbidity.
+EN100466.xml,27, We had encountered significant bleeding from the friable tumor.
+EN100466.xml,28, Patient was sent to the high dependency unit where she recovered postoperatively.
+EN100466.xml,29, Histology of the specimens showed a large B cell lymphoma.
+EN100466.xml,30, A haematologist consulted and peripheral blood film and bone marrow aspirate were done.
+EN100466.xml,31," Both results were normal, ruling out abnormal cells in both samples."
+EN100466.xml,32," She was started on chemotherapy <duration one month <pad>1<pad><pad><pad><pad><pad><pad>> after surgery and by the time of writing she had received one cycle of cyclophosphamide, doxorubicin and vincristine."
+EN100466.xml,33, She has also been initiated on highly active antiretroviral therapy.
+EN100415.xml,1,A 57 year old lady presented to a peripheral hospital with complaints of penetrating epigastric pain of <duration a week’s duration <pad><pad>1<pad><pad><pad><pad><pad>> 
+EN100415.xml,2, There was no vomiting or weight loss.
+EN100415.xml,3, Bowel movements were normal.
+EN100415.xml,4, Clinical examination at <date the time <pad><pad><pad><pad><pad><pad>past<pad><pad>> was unrevealing.
+EN100415.xml,5, An abdominal ultrasound examination was reported as normal.
+EN100415.xml,6, The patient’s insistence on full investigation of the persistent epigastric pain led to a computed tomographic examination and discovery of a pancreatic tumour subsequent to which she was referred to our institution.
+EN100415.xml,7,"
+The CT scan showed a large tumour (6cm in largest diameter) in the body and tail of pancreas with no evidence of metastasis."
+EN100415.xml,8, She was prepared for exploratory laparotomy.
+EN100415.xml,9, The pancreas was explored through the gastrocolic omentum.
+EN100415.xml,10, The body and tail of the pancreas including the tumour were resected.
+EN100415.xml,11, The spleen was also removed.
+EN100415.xml,12, The end of the pancreas was suture ligated.
+EN100415.xml,13, Her post-operative recovery was uneventful.
+EN100415.xml,14, Histological examination of the specimen showed a well circumscribed ovoid tumour 60mm x 50mm across.
+EN100415.xml,15," Sections revealed islands and trabeculae of regular cells with variable amounts of eosinophilic cytoplasm, mostly regular nuclei with indistinct nucleoli."
+EN100415.xml,16, Areas of necrosis were present with hemorrhage.
+EN100415.xml,17, A fibrous pseudo-capsule was noted around the tumour and the resection of the tumour appeared complete.
+EN100415.xml,18, No capsular of vascular invasion was seen.
+EN100415.xml,19, Immuno-peroxidase staining was positive for chromogranin A.
+EN100415.xml,20," Synaptophysin was strongly positive, CD10 was negative, Ki-67 was less than 2% positive and the mitotic count was between 2-20 per 10 hpf."
+EN100415.xml,21, The staining reactions were confirmatory of a neuroendocrine carcinoma of the pancreas.
+EN100415.xml,22, The final staging of the completely excised tumour was T3 N0 M0.
+EN100415.xml,23,"
+Following discharge, she was followed up regularly and remains symptom free."
+EN100415.xml,24, A CT Scan performed <duration 2 years 2<pad><pad><pad><pad><pad><pad><pad>> after surgery showed no evidence of tumour recurrence.
+EN100399.xml,1,"A 23-year-old previously healthy man, presented to the hospital's emergency department, with a <duration 3-day <pad><pad><pad>3<pad><pad><pad><pad>> history of high-grade fever up to 40°C and upper right abdominal pain."
+EN100399.xml,2, The patient's past medical history was non-significant.
+EN100399.xml,3, He was a student and had not received any medication.
+EN100399.xml,4, He had a pet dog and reported no recent travel.
+EN100399.xml,5," During physical examination on admission, vital signs were normal and he was febrile with a body temperature of 38°C."
+EN100399.xml,6," Abdominal examination revealed a tender palpable liver, with no signs of peritoneal irritation."
+EN100399.xml,7, The remainder of physical examination was unremarkable.
+EN100399.xml,8," Abnormal laboratory results on admission included a white blood cell count (WBC) of 20.830 (4-10.5x10³/μL), elevated C-reactive protein (CRP) level (28mg/dl, normal ≤0.5mg/dl), slightly elevated alanine aminotransferase (ALT) of 56 IU/L (normal 5-40 IU/L), and lactic dehydrogenase (LDH) of 255 IU/L (normal <225 IU/L)."
+EN100399.xml,9, Alkaline phosphatase (ALP) was normal.
+EN100399.xml,10," Abdominal ultrasonography on admission revealed a mildly enlarged liver and spleen and the presence of 2 sizable, hypoechoic lesions."
+EN100399.xml,11, Abdominal computed tomography (CT) scan revealed the 2 aforementioned lesions in diameter of 5.6cm at the left liver lobe and 5.2cm in the right lobe.
+EN100399.xml,12," The lesions were hypodense and presented peripheral enhancement after intravenous contrast, similar to the morphology of hepatic abscesses."
+EN100399.xml,13, The patient was admitted for further evaluation and treatment.
+EN100399.xml,14, Culture guided antimicrobials and appropriate drainage was our first option.
+EN100399.xml,15," Empiric antibiotic therapy with intravenous ciprofloxacin (400mg every 12 hours), and metronidazole (500mg every 8 hours) was initiated."
+EN100399.xml,16, All cultures resulted negative.
+EN100399.xml,17," Initially, we performed percutaneous sonographic (U/S) guided aspiration into the left hepatic abscess cavity."
+EN100399.xml,18," A thick, purulent material of 40cc was drained and sent for culture."
+EN100399.xml,19, Microbiology revealed a Gram-negative bacterium that presented slow growth.
+EN100399.xml,20," On <date the 5th <pad><pad><pad>5<pad><pad><pad><pad>> and <date 8th days <pad><pad><pad>8<pad><pad><pad><pad>> of admission, we performed CT guided catheter drainage of both abscesses."
+EN100399.xml,21, Meanwhile irregular spikes of fever with <time daytime <pad><pad><pad><pad>suma 0 d<pad><pad>> variation accompanied by <time night <pad><pad><pad>neutro 0 d<pad><pad><pad>tni> sweats persisted.
+EN100399.xml,22, Ciprofloxacin discontinued and meropenem at a dose of 1gr every 8 hours administered.
+EN100399.xml,23," Thorough screening for other possible sources of infection, resulted negative."
+EN100399.xml,24, Transthoracic echocardiography was negative for vegetations and showed mild mitral regurgitation.
+EN100399.xml,25," Entamoeba histolytica Abs, echinococcus Abs, leismania Abs, brucella Abs were negative."
+EN100399.xml,26, Gastrointestinal endoscopic evaluation was unrevealing.
+EN100399.xml,27, The patient was also HIV negative and no other immunodeficiency conditions were identified.
+EN100399.xml,28," Eventually, the isolate identified by the Vitek 2 automated system and classified as A. aphrophilus."
+EN100399.xml,29, To confirm the identification of the strain we performed matrix assisted laser desorption ionization-time of flight mass spectrometry (MALDI-TOF MS).
+EN100399.xml,30," The sensitivity test was performed with minimal inhibitory concentration (MIC) test strips; the isolate's susceptibility was to ceftriaxone ≤0.125 (S), cefepime ≤0.5 (S), ciprofloxacin ≤0.125 (S), gentamycin ≤0.5 (S), amikacin ≤0.125 (S) and to meropenem ≤0.032 (S)."
+EN100399.xml,31," Percutaneous drainage of both abscesses, combined with antimicrobial treatment, was successful and the patient's clinical condition improved."
+EN100399.xml,32," Thankfully, no surgical procedure was required."
+EN100399.xml,33, The drains were removed immediately the fluid from the abscess cavities became clear.
+EN100399.xml,34, Meropenem was administered for <duration a total of 2 weeks <pad><pad>2<pad><pad><pad><pad><pad>> 
+EN100399.xml,35," Then meropenem was switched to oral ciprofloxacin for <duration another 4 weeks <pad><pad>4<pad><pad><pad><pad><pad>> and the patient was discharged from the hospital, in full recovery."
+EN100399.xml,36, Follow-up sonogram obtained <duration almost 2 months <pad>2<pad><pad><pad><pad><pad><pad>> after the drainage showed completely normal liver parenchyma without any residual liver cavities.
+EN100605.xml,1,"A 22-year-old woman, without any formerly diagnosed diseases, presented to the emergency department with a <duration 3 day <pad><pad><pad>3<pad><pad><pad><pad>> history of dyspnea, fatigue and central chest pain."
+EN100605.xml,2,"
+She reported increasing dyspnea that developed in the previous month."
+EN100605.xml,3, She also had intermittent pain in the small joints for several months.
+EN100605.xml,4,"
+There was no family history of SLE."
+EN100605.xml,5,"
+On examination, she had a temperature of 38.2°C, a heart rate of 115 beats/minute, blood pressure of 90/60mmHg, respiratory rate of 25 breaths/minute, muffled heart sounds and jugular distention."
+EN100605.xml,6,"
+The electrocardiogram showed sinus tachycardia and low voltage."
+EN100605.xml,7,"
+The chest radiograph showed an enlargement of the cardiac silhouette with a right-sided pulmonary effusion."
+EN100605.xml,8,"
+The echocardiography revealed a large circumferential pericardial effusion, with diastolic collapse of the right atrium, dilated inferior vena cava and 30% respiratory variation of the Doppler mitral valve, confirming the diagnosis of cardiac tamponade."
+EN100605.xml,9,"
+Initial workup showed normochromic normocytic anemia with hemoglobin at 8.5g/dl, CRP: 75mg/L, renal and liver function tests were normal."
+EN100605.xml,10, Emergency pericardiocentesis was indicated but could not be performed because of the incapability to place the guidewire into the pericardial cavity.
+EN100605.xml,11," So, urgent surgical pericardiectomy with window procedure was realized, 1200 of clear fluid was evacuated."
+EN100605.xml,12,"
+The pericardial fluid contained 2900 white blood cells/mm³, 100 red blood cells/mm³, bacteriological culture and cytologic examinations yielded negative results."
+EN100605.xml,13,"
+The pericardial biopsy showed features of nonspecific inflammation, malignancy and tuberculosis were ruled out."
+EN100605.xml,14,"
+Further investigations were accomplished to determine the etiology."
+EN100605.xml,15," Immunological workup revealed antinuclear antibodies titer of 1:1280, positive anti-SSA and anti-SM antibodies and hypocomplementemia."
+EN100605.xml,16, The coombs test was positive.
+EN100605.xml,17,"
+The diagnosis of systemic lupus erythematosus was established based on hemolytic anemia, serositis, arthralgia, positive anti nuclear and anti SM antibodies and low complement."
+EN100605.xml,18,"
+The patient was started on intravenous therapy with methylprednisolone followed by prednisone 60mg by mouth daily with hydroxychloroquine."
+EN100605.xml,19,"
+She had a good clinical response and control echocardiography showed complete resolution of the pericardial effusion without recurrence."
+EN104891.xml,1,A 36-year-old female showed mild swelling in the right upper eyelid.
+EN104891.xml,2,"
+She lost her RGP contact lens <duration seven months <pad>7<pad><pad><pad><pad><pad><pad>> prior to her first visit, from trauma by her child's kick to the right eye."
+EN104891.xml,3,"
+At the first examination, we felt a firm lump inferior to the right brow."
+EN104891.xml,4,"
+Eversion of the upper eyelid also revealed a firm subconjunctival mass superior to the upper tarsus."
+EN104891.xml,5,"
+After incising the conjunctiva, the RGP contact lens was found without a fibrous capsule and granulation tissue in the subconjunctival space."
+EN104891.xml,6,"
+<duration three years 3<pad><pad><pad><pad><pad><pad><pad>> after removal of the lens, the patient did not show any complications, including ptosis."
+EN100017.xml,1,"A 14-year old boy with no significant past medical history presented to a small district hospital in southern Sierra Leone with a <duration 4 day <pad><pad><pad>4<pad><pad><pad><pad>> history of facial puffiness, peripheral pitting oedema, abdominal pains, and reduced urine output."
+EN100017.xml,2," On examination he was afebrile, BP150/110, heart rate 70."
+EN100017.xml,3," He had significant periorbital and facial oedema, pitting oedema from the feet to the knees, a distended abdomen, ascites, and tender hepatomegaly."
+EN100017.xml,4," Lab results showed haemoglobin 10.9 g/dl, packed cell volume 35%, and positive malaria parasites."
+EN100017.xml,5," Urea (14 mg/dl), creatinine (1.0 mg/dl), sodium (137 mmol/L), and potassium (3.7 mmol/L) were normal."
+EN100017.xml,6," Urinalysis, using a urine dipstick, revealed three pluses of proteinurea, which equates to ≥3g urinary protein per day."
+EN100017.xml,7, Lab facilities for the measurement of serum albumin were not available.
+EN100017.xml,8," The diagnosis of nephrotic syndrome was made and the patient was started on a course of prednisolone 60mg/day, Enalapril 2.5mg daily, anti-malarial treatment, and empirical broad spectrum IV antibiotics to cover bacterial infections, in addition to a salt-restricted diet."
+EN100017.xml,9," On <date day 3 <pad><pad><pad><pad>suma 3 d<pad><pad>> of admission he showed a clinical response to treatment, as the facial oedema, ascites, and BP had reduced."
+EN100017.xml,10, Urinalysis showed two pluses of proteinurea (0.5-1.0 gram per day per day).
+EN100017.xml,11," The child complained of a moderate headache, but had no fever, meningism, or focal neurological signs."
+EN100017.xml,12, He was started on oral paracetamol.
+EN100017.xml,13," <time the next morning <pad><pad><pad>suma 1 d<pad><pad><pad>tmo> (<date day 4 <pad><pad><pad><pad>suma 4 d<pad><pad> > of admission) his symptoms evolved: his headache became severe, he had pain behind both eyes, and he was vomiting."
+EN100017.xml,14," Examination showed a right VI nerve palsy, diplopia, and tinnitus in the right ear, with some hearing loss."
+EN100017.xml,15, He later became drowsy and had a generalised seizure.
+EN100017.xml,16, Diagnosis and commencement of treatment was delayed due to the absence of CT/MRI brain imaging facilities in the local district.
+EN100017.xml,17," In the context of the child's nephrotic status and focal neurological signs, we had a high suspicion of cerebral venous thrombosis, and made a presumptive diagnosis."
+EN100017.xml,18, The child was started on high dose subcutaneous unfractionated heparin <set daily <pad><pad><pad>1<pad><pad><pad><pad>> 
+EN100017.xml,19," This decision was made cautiously, but it was felt that the advantages surpassed the risks."
+EN100017.xml,20," He also received dexamethasone, high flow oxygen, and elevation of the head to 45 degrees, in order to treat features of raised intracranial pressure."
+EN100017.xml,21, On <date day 6 <pad><pad><pad><pad>suma 6 d<pad><pad>> of admission his headache had improved and his focal neurological signs began to resolve.
+EN100017.xml,22, He still had a partial right VI nerve palsy and a convergent squint.
+EN100017.xml,23," His oedema resolved completely by <date day 10 <pad><pad><pad><pad>suma 10 d<pad><pad>> of treatment, and he was discharged on <date day 18 <pad><pad><pad><pad>suma 18 d<pad><pad>> "
+EN100017.xml,24, He continued prednisolone 60mg <set daily <pad><pad><pad>1<pad><pad><pad><pad>> for a total of <duration 6 weeks <pad><pad>6<pad><pad><pad><pad><pad>>  followed by a reduced dose of 40mg on <set alternate days <pad><pad><pad>2<pad><pad><pad><pad>> for <duration 6 weeks <pad><pad>6<pad><pad><pad><pad><pad>> 
+EN100017.xml,25," At <duration 12 weeks <pad><pad>12<pad><pad><pad><pad><pad>> follow-up, his urinalysis showed a trace proteinurea but he remained in remission."
+EN100029.xml,1,A 17 year-old woman with a history of moderate persistent allergic asthma has benefited from a first desensitization protocol at age 3.
+EN100029.xml,2, The protocol has been interrupted <date 4 years <pad><pad><pad><pad>suma 4 y<pad><pad>> later because of a mild skin reaction.
+EN100029.xml,3, Her doctor decided to stop the specific immunotherapy.
+EN100029.xml,4, But another doctor restarted a new protocol of desensitization at age 16 against pollens because of a lack of control of his condition.
+EN100029.xml,5," She was never hospitalized, she was receiving no medication and she was doing well one year after she received a new regimen of pneumallergens (Alustal® Stallergenes SA, France)."
+EN100029.xml,6," Indeed, <duration 12 hours <pad><pad><pad><pad>12<pad><pad><pad>> after initiation of treatment, she complained of abdominal pain, vomiting and diarrhea without fever."
+EN100029.xml,7," <set several hours <pad><pad><pad><pad><pad><pad><pad><pad>> after, she consulted to the emergency department where a surgical emergency was ruled out."
+EN100029.xml,8, She was then admitted to the internal medicine ward.
+EN100029.xml,9," <date two days later <pad><pad><pad><pad>suma 2 d<pad><pad>>  she developed an acute respiratory failure and was referred to the intensive care unit where laboratory tests revealed multiorgan failure: liver enzymes, 5000U/L (normal level, 0-37U/L); creatine phosphokinase, 59000U/L (normal level, 10-200U/L); cardiac troponin T, 21ng/ml (normal level, under 0,01ng/ml); leucopenia, 2600/mm 3 (normal level, 4000-9000/ mm 3); thrombocytopenia, 13000/ mm 3 (normal level, 150000-400000/ mm 3); prothrombin time, 38% (normal level, 70-100%)."
+EN100029.xml,10, Chest X-ray demonstrated bilateral interstitial markings with a normal cardiac silhouette.
+EN100029.xml,11," Viral serology was normal for hepatitis A, B, C, D, and E, Epstein-Barr virus and Cytomegalovirus."
+EN100029.xml,12, A skin morbilliform rash and facial edema appeared later.
+EN100029.xml,13," The patient received a fluid resuscitation, platelet and erythrocyte transfusion, steroids and antibiotics."
+EN100029.xml,14, A hypoxic coma occurred on <date day 4 <pad><pad><pad><pad>suma 4 d<pad><pad>> leading to intubation and mechanical ventilation.
+EN100029.xml,15," Rapidly, she experienced intractable shock and acute renal impairment despite inotropic agents leading to death on <date day 5 <pad><pad><pad><pad>suma 5 d<pad><pad>> "
+EN100024.xml,1,The patient referred to our unit for consideration for coronary artery bypass grafting was a 56 year old teacher who had been managed for Ischaemic Heart Disease (IHD) at a private cardiology facility in Lagos.
+EN100024.xml,2, She had presented in <date july 2009 2009 07<pad><pad><pad><pad><pad><pad><pad> > with a history suggestive of IHD and angina class III (Canadian Cardiovascular society classification) which was worsening despite medical therapy.
+EN100024.xml,3, Coronary angiography done demonstrated significant lesions in the mid portion of the Left Descending Coronary Artery (LAD) and the proximal Circumflex Coronary Artery (Cx).
+EN100024.xml,4, The Right Coronary Artery was a dominant artery with some minor irregularities.
+EN100024.xml,5, Percutaneous transluminal coronary angioplasty of both the LAD and Cx was done.
+EN100024.xml,6, A 3.0 mm Drug Eluting Stent was deployed to stent the LAD and the Cx was stented with a 3.0mm Bare Metal Stent.
+EN100024.xml,7, The patient was angina-free for <duration one year 1<pad><pad><pad><pad><pad><pad><pad>> but represented in <date july 2010 2010 07<pad><pad><pad><pad><pad><pad><pad> > again with angina class III.
+EN100024.xml,8, Repeat coronary angiogram was done which showed that both stents were patent and there was no new coronary lesion.
+EN100024.xml,9, She was controlled on medical therapy.
+EN100024.xml,10, However she presented again in <date november 2011 2011 11<pad><pad><pad><pad><pad><pad><pad>>  this time with unstable angina.
+EN100024.xml,11, An urgent coronary angiogram carried out showed that the previous stents were still patent but with a 50% left main stem stenosis and a 95% proximal LAD stenosis.
+EN100024.xml,12, She was subsequently referred for surgical revascularization.
+EN100024.xml,13, Physical examination on admission revealed a middle aged woman who was clinically obese with a body mass index of 32kg/m 2.
+EN100024.xml,14, There were no significant physical findings.
+EN100024.xml,15," Associated risk factors were intermittent claudication (Ankle-Brachial Index bilaterally was 0.57), bilateral carotid bruits, poorly controlled diabetes mellitus and hyperlipidemia."
+EN100024.xml,16, Her calculated euroscore was 6.
+EN100024.xml,17," Medications on admission were Aspirin, Glyceryl trinitrate sublingual spray, Metformin, Glibenclamide, Fluvastatin, Metoprolol and Isosorbide Dinitrate."
+EN100024.xml,18, Investigations done included transthoracic echocardiogram which showed good left ventricular ejection fraction with no evidence of ventricular dysfunction.
+EN100024.xml,19," Chest radiogram, 12 lead electrocardiogram and pulmonary function tests were normal."
+EN100024.xml,20, All blood parameters were within acceptable limits.
+EN100024.xml,21, Following review of her coronary angiogram she was scheduled for single vessel grafting of the LAD as an off pump procedure.
+EN100024.xml,22, Surgery was performed in <date november 2011 2011 11<pad><pad><pad><pad><pad><pad><pad>> 
+EN100024.xml,23, The cardiopulmonary bypass circuit was not primed.
+EN100024.xml,24, Following median sternotomy and harvesting of the Left Internal Mammary Artery (LIMA) the Octopus 3 Off-pump stabilizer and foot plate were used to immobilize the anterior myocardial surface with good visualization of the LAD.
+EN100024.xml,25, The LAD which was a 2.5mm vessel was snugged proximally and an arteriotomy performed in its mid-portion.
+EN100024.xml,26, The arteriotomy site was kept bloodless with CO2 insufflation via an improvised blow-mister.
+EN100024.xml,27, The LIMA to LAD anastomosis was performed with 6-0 prolene suture.
+EN100024.xml,28, The procedure was uneventful and the patient was transferred to the Intensive Care Unit on minimal inotropic support.
+EN100024.xml,29, She was weaned off the ventilator after <duration 4 hours <pad><pad><pad><pad>4<pad><pad><pad>> and inotropic support was discontinued after <duration 24 hours <pad><pad><pad><pad>24<pad><pad><pad>> 
+EN100024.xml,30, Postoperative recovery was delayed by the need to achieve glycaecmic control.
+EN100024.xml,31, She was discharged home <duration 2 weeks postoperatively <pad><pad>2<pad><pad><pad><pad><pad>> 
+EN100024.xml,32, She has been reviewed in clinic and remains free of angina.
+EN100184.xml,1,"An eleven year old girl presented to the paediatric eye clinic of the University College Hospital, Ibadan, Nigeria with a history of squint and poor vision."
+EN100184.xml,2, Her mother had noticed a misalignment of the eyes <date three years previously <pad><pad><pad><pad>resta 3 y<pad><pad>> and the patient had been complaining about poor distance vision for about <duration a year 1<pad><pad><pad><pad><pad><pad><pad>> 
+EN100184.xml,3, There was no history of antecedent trauma to the head or face.
+EN100184.xml,4, There was no history of double vision (diplopia) or pains on ocular movements.
+EN100184.xml,5," There was no associated headache, fever, vomiting, joint pains or skin rashes/lesions."
+EN100184.xml,6, The review of systems was essentially normal and she had enjoyed good health since early childhood.
+EN100184.xml,7, Her pregnancy and delivery were uneventful; and her development was normal.
+EN100184.xml,8, All other family members were well and there was no family history of squint.
+EN100184.xml,9, Unaided visual acuity was 6/24 in the right eye and counting fingers (CF) in the left eye.
+EN100184.xml,10," During refraction, her visual acuity improved to 6/9 and 6/60 in the right and left eyes respectively."
+EN100184.xml,11, The refractive error was a hypermetropia of +4.50 diopters in each eye.
+EN100184.xml,12, Examination revealed normal anterior and posterior segments bilaterally.
+EN100184.xml,13, There was about 10 prism diopters of left hypotropia with no horizontal deviation in the primary position and she did not have an abnormal head posture.
+EN100184.xml,14, Her palpebral fissures were normal and equal on both sides in the primary position of gaze.
+EN100184.xml,15," Examination of the ocular motility elicited marked limitation of elevation of the left eye when looking to the right, while elevation of the same eye was almost full on left gaze."
+EN100184.xml,16, The movements of the right eye were normal and there were no significant changes in the palpebral fissures of both eyes during eye movements.
+EN100184.xml,17, Forced duction test (performed under sedation) was positive and revealed marked restriction of passive elevation of the left eye in adduction.
+EN100184.xml,18, Her systemic examination was completely normal.
+EN100184.xml,19, A diagnosis of congenital left Brown syndrome with severe amblyopia was made.
+EN100184.xml,20, Spectacles were prescribed and she was commenced on a trial of amblyopia therapy which consisted of patching of the right eye for <set a period of 3-4 hours every day <pad><pad><pad>1<pad><pad><pad><pad>> (after school).
+EN100184.xml,21, Her mother was counselled and educated about the condition as well as the treatment plan.
+EN100184.xml,22," Specifically, she was informed that surgery was necessary to correct the squint, irrespective of the outcome of the amblyopia therapy."
+EN100184.xml,23," A <duration three month <pad>3<pad><pad><pad><pad><pad><pad>> follow up visit was scheduled, however, the patient defaulted after the initial visit."
+EN108254.xml,1,"A male patient, born in <date 1973 1973<pad><pad><pad><pad><pad><pad><pad><pad>>  fell off the balcony while on holidays in Crete in <date 1993 1993<pad><pad><pad><pad><pad><pad><pad><pad>> and developed complete tetraplegia at C-5 level."
+EN108254.xml,2," In <date 1996 1996<pad><pad><pad><pad><pad><pad><pad><pad>>  deafferentation of sacral nerve roots 2, 3 and 4 were carried out bilaterally."
+EN108254.xml,3, Brindley sacral anterior root stimulator was implanted.
+EN108254.xml,4, <date on eleventh post-operative day <pad><pad><pad>11<pad><pad><pad><pad>>  blood stained fluid came out of sacral wound.
+EN108254.xml,5," Microbiology of exudates showed growth of Pseudomonas aeruginosa, sensitive to gentamicin."
+EN108254.xml,6," As discharge of serosanguinous fluid persisted, sacral wound was explored."
+EN108254.xml,7, In <date march 1997 1997 03<pad><pad><pad><pad><pad><pad><pad>>  induration and craggy swelling were noted at the site of receiver.
+EN108254.xml,8, There was discharge from the surgical wound in the back.
+EN108254.xml,9, Wound swab grew Pseudomonas aeruginosa.
+EN108254.xml,10, The receiver was taken out.
+EN108254.xml,11, Cables were retrieved and tunnelled in left flank.
+EN108254.xml,12, Laminectomy wound was left open.
+EN108254.xml,13, In <date may 1997 1997 05<pad><pad><pad><pad><pad><pad><pad>>  cables were removed from left flank through the laminectomy wound.
+EN108254.xml,14, Grommet was sliced down as much as possible without producing leak of cerebrospinal fluid.
+EN108254.xml,15, Histoacryl glue was used over the truncated grommet as a sealing agent.
+EN108254.xml,16," Microbiology of end of S-2 and S-3 cables showed growth of Pseudomonas aeruginosa, which was sensitive to gentamicin."
+EN108254.xml,17, End of S-4 cable showed scanty growth of Pseudomonas aeruginosa and Klebsiella aerogenes.
+EN108254.xml,18, Review of this patient in <date january 1999 1999 01<pad><pad><pad><pad><pad><pad><pad>> revealed presence of sinuses in dorsal wound exuding purulent material.
+EN108254.xml,19, The wound was explored; grommet and electrodes were removed.
+EN108254.xml,20, The consequences of failed implantation were severe constipation and loss of reflex penile erection and bladder emptying.
+EN108254.xml,21, This patient had to spend increasing amount of time for bowels management.
+EN108254.xml,22, Faecal incontinence limited his mobility.
+EN108254.xml,23," The problem with his bowels was affecting his confidence in doing anything, as the slightest movement could cause his bowels to work."
+EN108254.xml,24, The inconvenience and embarrassment of a bowel accident caused distress to the patient and to his mother.
+EN100156.xml,1,A 38-year-old man presented with a <duration seven month <pad>7<pad><pad><pad><pad><pad><pad>> history of progressively worsening bilateral knees pain with associated swelling.
+EN100156.xml,2," The pain was present when the patient was at rest, and worsened when the legs was bearing weight, thus restricting his walking to short distances."
+EN100156.xml,3, His knees had become increasingly swollen.
+EN100156.xml,4, He was otherwise fit and well.
+EN100156.xml,5," His medical history was unremarkable and he was only taking a paracetamol, codeine and anti-inflammatory drugs for the pain."
+EN100156.xml,6,"
+Upon examination, the patient was seen to have visibly swollen popliteal fossa and marked quadriceps wasting of his right lower limb."
+EN100156.xml,7," On palpation, the masses was hard, mobile, well defined, and measured 0.5 - 04 cm."
+EN100156.xml,8, The swelling was non-tender and there were no associated skin changes.
+EN100156.xml,9," He could fully extend his knee, but flexion was restricted to only 110 degrees."
+EN100156.xml,10, There was a McMurray test proved equivocal and no ligamentous instability.
+EN100156.xml,11, An examination of the patient’s hip revealed no abnormality.
+EN100156.xml,12,"
+A plain radiograph of the patient’s knees revealed multiple calcific densities within the soft tissues surrounding it on the right one."
+EN100156.xml,13," Although some of these appeared to lie within the capsule, the majority appeared to be outside of it, and a solitary image on the left knee."
+EN100156.xml,14, These appearances were thought to be consistent with idiopathic tumoral calcinosis.
+EN100156.xml,15," However, to further scrutinize these calcifications, a magnetic resonance imaging (MRI) scan was recommended."
+EN100156.xml,16," It showed an extensive thickening of the patient’s synovium, multiple intraarticular calcific and ossific loose bodies, and large calcified bursal extensions."
+EN100156.xml,17, These findings were thought to be consistent with very extensive bilateral synovial chondromatosis.
+EN100156.xml,18, The patient’s blood tests were normal: C-reactive protein 5 mg/l and the phosphate calcium balance without errors.
+EN100156.xml,19,"
+A two-stage procedure was planned following the findings of the MRI scan."
+EN100156.xml,20," The first stage was arthroscopy, which was able to note Grade IV osteoarthritis alongside florid synovial chondromatosis in the lateral compartment of the right knee."
+EN100156.xml,21, There were multiple loose bodies within this compartment and nodules were fixed to the synovium.
+EN100156.xml,22," On the left one, we found an isolated synovial metaplasia in the subvastus quadriceps-sparing."
+EN100156.xml,23, A synovectomy with debridement and excision of these bodies was thus performed.
+EN100156.xml,24,"
+The second stage involved an open exploration of the patient’s popliteal fossa."
+EN100156.xml,25," Multiple calcified masses were found, all enclosed in bursal sacs."
+EN100156.xml,26, They were lateral to the semimembranosus at the level of the oblique popliteal ligament.
+EN100156.xml,27, All the masses were excised.
+EN100156.xml,28, A histological review confirmed our diagnosis of synovial chondromatosis.
+EN100156.xml,29, The sections showed nests of chondrocytes with focal ossification and focally attenuated synovium overlying the nodules.
+EN100156.xml,30," After the operation, the patient underwent functional rehabilitation sessions focusing on quadriceps strengthening, with a <set daily <pad><pad><pad>1<pad><pad><pad><pad>> exercise regime to supplement this."
+EN100156.xml,31," He recovered well and <duration ten weeks <pad><pad>10<pad><pad><pad><pad><pad>> after the operation, has regained his right knee’s full range of movement with flexion increased to 130 degrees, which is equal to that of his left knee."
+EN100432.xml,1,A 64-year-old woman was admitted to our institution with palpable lump in her left breast.
+EN100432.xml,2, Patient had not any previous medical and family story of cancer and denied any use of alcohol and cigarettes.
+EN100432.xml,3, She took oral contraception <duration for 5 years 5<pad><pad><pad><pad><pad><pad><pad>> 
+EN100432.xml,4, Her menarche was at age 12.
+EN100432.xml,5, Physical examination revealed a 3 cm tumor located on the left breast adhere to deep plans.
+EN100432.xml,6," There was no retraction of the nipple, skin ulceration or inflammatory changes."
+EN100432.xml,7, The right breast exam was negative and there was no clinical evidence of axillary lymph node involvement.
+EN100432.xml,8, Mammography revealed a 2.6 cm round hyperdense mass with irregular and speculated margins in the subareolar area with associated microcalcifications within the mass.
+EN100432.xml,9, The mass was categorized as Breast Imaging Reporting and Data System category 5.
+EN100432.xml,10, Fine needle aspiration and a core biopsy of the lesion were performed and the diagnostic was tubular carcinoma of the breast.
+EN100432.xml,11, The patient underwent left lumpectomy with axillary node dissection.
+EN100432.xml,12, The macroscopic (gross) examination of specimens revealed the presence of a nodule measuring 1.5 cm in its largest diameter.
+EN100432.xml,13, The histology showed that tumor cells were arranged in a rare trabecular pattern with a prominent lymphoid stroma.
+EN100432.xml,14, Carcinomatous cells were polygonal with granular amphophilic cytoplasm and a nucleus with fine chromatin.
+EN100432.xml,15, Nucleoli were generally inconspicuous.
+EN100432.xml,16, Up to 8 mitoses per 10 HPF were counted.
+EN100432.xml,17, No lympho-vascular component or intraductal component was noted.
+EN100432.xml,18, The tumor was grade II of Scarf Bloom Richardson.
+EN100432.xml,19, Surgical margin was clear.
+EN100432.xml,20," The resected axillary lymph nodes contained metastases, including one/19 N level I lymph nodes."
+EN100432.xml,21," The immunohistochemistry study showed an expression of the following antibodies Ck (AE1/AE3) on the carcinomatous component, CD3 and CD20 with homogenous distribution in the stroma."
+EN100432.xml,22," The Ki-67 labeling index was: 40% (estimated on 10HPF), Estrogen receptor status were 90%, progesterone receptor 10% (both using Allred score) and the human epidermal growth factor was negative."
+EN100432.xml,23, Based on the histopathological and immunohistochemical findings the case has been reported as lymphoepithelioma-like carcinoma of the breast and staged as pT1N1M0.
+EN100432.xml,24,"
+The post-operative pet scan showed no distant metastasis."
+EN100432.xml,25, The laboratory data showed a normal level of carbohydrate antigen 15-3(CA15-3: 39.8 U/ml).
+EN100432.xml,26," Following surgery, the patient underwent four cycles of doxorubicin and cyclophosphamide and twelve cycles of paclitaxel chemotherapy."
+EN100432.xml,27, She declined endocrine therapy and was treated with radiotherapy commencing 3 weeks after chemotherapy.
+EN100432.xml,28, The radiation dose was 50Gy in 25 fractions using a 6MV photon tangent pair followed by a boost of 10Gy in 5 fractions using 6MV photon tangent pair.
+EN100432.xml,29, Regular follow up consists of physical examination every three months.
+EN100432.xml,30," At her <date 1 year <pad><pad><pad><pad>suma 1 y<pad><pad>> follow-up, the patient was doing well with no evidence of recurrent disease."
+EN100022.xml,1,A 60 year-old man presented to an outside institution for septic shock with hematesis.
+EN100022.xml,2," He had a medical history of diabetes mellitus, hypertension and he was amputated right leg (trans-femoral amputation) for diabetic arteriopathy <date six months <pad><pad><pad><pad>suma 6 m<pad><pad>> before admission complicated by venous thrombosis."
+EN100022.xml,3," Home medications included daily pioglitazone, atenolol, furosemide and anticoagulant with poor compliance."
+EN100022.xml,4," Initial examination revealed a patient in state of septic shock, respiratory rate 28 cycles per min, his pulse was regular with an apical rate of 120 beats/min, temperature 39° C, blood pressure 70/40 mmHg, he had necrotic and suppurative amputation stump with peripheral pulse abolished."
+EN100022.xml,5," Patient was given immediately oxygen, fluids, antibiotics, and drugs to increase blood pressure."
+EN100022.xml,6," <duration six hours <pad><pad><pad><pad><pad><pad><pad><pad>> later, the patient presented a single episode of hematemesis."
+EN100022.xml,7, There was no associated melena or abdominal pain.
+EN100022.xml,8," He had no history of alcohol use, liver disease, varices, peptic ulcer disease, abdominal aortic surgery, nonsteroidal anti inflammatory drug use, gastroparesis, or previous GI bleeding."
+EN100022.xml,9, Physical examination was unremarkable.
+EN100022.xml,10," Pertinent laboratory studies included a hemoglobin level of 10 g/dL, platelet count was normal, blood urea of 1,2 g/l (0,18-0,45 g/L), and a creatinine level of 68 mg/L (7-13 mg/L)."
+EN100022.xml,11," After hemodynamic stabilization, an oesophageo-gastro-duodenoscopy was performed which showed: The upper third of the esophagus was circumferentially congestive, but the middle and lower third showed circumferential black pigmentation: the mucosa was black and covered by an exudate of the same color associated with diffuse bleeding."
+EN100022.xml,12," Gastric mucosa was strictly normal in direct vision and in retrovision, the bulb and duodenum were normal."
+EN100022.xml,13," Biopsie specimens were showed necrotic debris, mucosal submucosal necrosis with a local inflammatory response."
+EN100022.xml,14, The treatment of this condition was based continuous high dose omeprazole (8 mg / h) after bolus of 80mg and total parenteral nutrition.
+EN100022.xml,15, The patient experienced no further hematemesis or melena.
+EN100022.xml,16," Due to the severity of the necrosis, and with deterioration of his condition and persistent sepsis he died later in the <set same day <pad><pad><pad><pad><pad><pad><pad><pad>> "
+EN105832.xml,1,A 35-year-old Caucasian woman known to suffer from late familial hyperinsulinemic hypoglycemia due to a well-known mutation in the insulin receptor gene has been pregnant 6 times.
+EN105832.xml,2, The patient was treated with injections of Sandostatin LAR® (octreotide) during the first four pregnancies.
+EN105832.xml,3, Her first pregnancy in <date 1999 1999<pad><pad><pad><pad><pad><pad><pad><pad> > was unknown until approximately <date 25th gestational weeks <pad><pad>25<pad><pad><pad><pad><pad>> with fatal intrauterine growth retardation.
+EN105832.xml,4, The following two pregnancies were terminated on parental request after a chorion villus biopsy revealed the mutation causing late familial hyperinsulinemic hypoglycemia.
+EN105832.xml,5," During the fourth pregnancy, in which the fetus also had the mutation, serial ultrasound examinations showed a small fetus with appropriate growth."
+EN105832.xml,6, At birth the girl was small for gestational age.
+EN105832.xml,7, She was admitted to the neonatal special care unit due to low blood glucose and intravenous glucose and early feeding was initiated.
+EN105832.xml,8," One day old, her condition deteriorated with signs of an abdominal catastrophe indicating necrotizing enterocolitis."
+EN105832.xml,9, After two laparotomies - both confirming necrotizing enterocolitis - the child died <duration 8 days <pad><pad><pad>8<pad><pad><pad><pad>> after birth.
+EN105832.xml,10, In the following two pregnancies Sandostatin LAR® was stopped before pregnancy and the patient was treated only with diet restriction and intensive glucose monitoring.
+EN105832.xml,11, Both pregnancies ended successfully.
+EN105832.xml,12, One child carried the mutation and was small for gestational age at birth while the other child did not carry the mutation and had normal birth weight.
+EN104655.xml,1,"Twenty-five-year-old Sri Lankan female with past history of complete recovery following an acute inflammatory demyelinating polyneuropathy (AIDP) variant of Guillain-Barré syndrome <date 12 years back <pad><pad><pad><pad>resta 12 y<pad><pad>> presented with acute, ascending symmetrical flaccid quadriparasis extending to bulbar muscles, bilateral VII cranial nerves and respiratory compromise needing mechanical ventilation."
+EN104655.xml,2, Nerve conduction study revealed AIDP variant of Guillain-Barré syndrome.
+EN104655.xml,3, Cerebrospinal fluid analysis done after <duration 2 weeks <pad><pad>2<pad><pad><pad><pad><pad>> were normal during both episodes without albuminocytologic dissociation.
+EN104655.xml,4, She was treated with intravenous immunoglobulin resulting in a remarkable recovery.
+EN104655.xml,5," Both episodes had a complete clinical recovery in <duration three <pad>3<pad><pad><pad><pad><pad><pad>> and <duration four months' time <pad>4<pad><pad><pad><pad><pad><pad>> respectively, rather a faster recovery than usually expected."
+EN100427.xml,1,"A 61-year-old woman, gravida 3 para 3, presented with an increased size of ovarian cyst."
+EN100427.xml,2, Her history revealed a diagnosis of left ovarian cyst 3cm in diameter <date 3 years <pad><pad><pad><pad>resta 3 y<pad><pad> > previously.
+EN100427.xml,3," Her serum cancer antigen (CA) 125 and CA 19-9 levels were within the normal ranges, and she was followed up at <duration 6-month <pad>6<pad><pad><pad><pad><pad><pad>> intervals at a private hospital."
+EN100427.xml,4, The ovarian cyst size had not changed in size and structure on biannual transvaginal ultrasound (TVS).
+EN100427.xml,5," However, she was referred to our institution in <date july 2016 2016 07<pad><pad><pad><pad><pad><pad><pad> > with progression of ovarian cyst to 6cm on a pelvic ultrasonogram <date 2 weeks <pad><pad><pad><pad>resta 2 w<pad><pad>> ago."
+EN100427.xml,6," The patient underwent menopause at age 48 years, with an uneventful past menstrual cycle."
+EN100427.xml,7," She had no medical history except the benign thyroid nodule, no relevant surgical history and had not received hormonal therapy."
+EN100427.xml,8," Routine blood chemistry and serum tumor marker analysis showed that the levels of carcinoembryonic antigen, CA 19-9, CA 125, and human epididymis protein 4 were all within the normal ranges."
+EN100427.xml,9, Uterine cervical cytology at the time of admission was normal.
+EN100427.xml,10," TVS showed a left ovarian unilocular cyst, size 6cm × 5cm × 4cm, with diffuse low-level internal echoes, thin walled, smooth margined, no septa and no papillary projections."
+EN100427.xml,11," The uterus size was 6cm × 4cm × 3cm, and a 1cm uterine myoma was found in the fundus."
+EN100427.xml,12," Pelvic contrast-enhanced computed tomography (ECT) images revealed a unilocular cystic lesion measuring 6 cm at its widest dimension, without enhancing solid intramural nodules and no evidence of lymphadenopathy or ascites."
+EN100427.xml,13, CT scan indicated benign ovarian cystic tumors.
+EN100427.xml,14,"
+The patient underwent laparoendoscopic single-site (LESS) surgery."
+EN100427.xml,15," On laparoscopic inspection, the cyst was found to be located in the ampullary and fimbrial regions of the left fallopian tube."
+EN100427.xml,16, The left fallopian tube was grossly unremarkable and the left ovary was atrophied.
+EN100427.xml,17," The left ovary and tube were completely separate from the cyst and the cyst was surrounded by a translucent wall with serous cystic components, but solid components were not seen inside."
+EN100427.xml,18, Clinical diagnosis was suggestive of left paratubal cyst.
+EN100427.xml,19, The patient underwent hysterectomy and BSO.
+EN100427.xml,20," Although tumor markers were normal and there was no presence of papillary projections, the progression in size in the postmenopausal woman indicated a possible malignancy."
+EN100427.xml,21, Frozen sections were prepared from surgery specimens and confirmed a benign cyst.
+EN100427.xml,22," After surgery, the pelvic cavity was explored and no specific findings were found in the abdominal cavity."
+EN100427.xml,23,"
+Histopathological examination of the paratubal cyst revealed the presence of polypoid lesions on the internal surface of the cyst."
+EN100427.xml,24," The tumor cells showed nuclear atypism and stratification, which are histological characteristics of borderline tumor."
+EN100427.xml,25, A final diagnosis of paratubal borderline serous tumor was confirmed.
+EN100427.xml,26, The patient was discharged from the hospital on postoperative day 3.
+EN100427.xml,27," CT images were retrospectively evaluated, focusing on the left ovary, fallopian tube, and paratubal cyst after surgery."
+EN100427.xml,28," Multiplanar reconstruction CT imaging revealed linear fat planes between the left ovary and the cyst, indicating that the left ovary, fallopian tube and paratubal cyst were separate structures, similar to those seen during surgery."
+EN100427.xml,29," The tumor was not completely staged, and a comprehensive surgical staging operation was recommended; however, the patient refused adjuvant surgical treatment and opted for close follow-up."
+EN100427.xml,30," Pelvic ECT, TVS and tumor markers were checked every three months."
+EN100427.xml,31, The patient remains asymptomatic and follow-up at <date 24 months <pad>24<pad><pad><pad><pad><pad><pad>> showed no evidence of recurrence or metastasis.
+EN100593.xml,1,"A 27-year-old pregnant woman presented to our facility at <duration 35 weeks <pad><pad>35<pad><pad><pad><pad><pad>>  gestation with a <duration 3-months <pad>3<pad><pad><pad><pad><pad><pad>> history of right upper abdominal pain associated with generalized itch, tea colored urine, mastic -colored stool, and significant weight loss."
+EN100593.xml,2," No headache, blurred vision or spontaneous bleeding were mentioned."
+EN100593.xml,3, She was not a known diabetic or hypertensive and has no history of blood transfusion.
+EN100593.xml,4, Clinical signs on examination included mild pallor and cholestatic jaundice.
+EN100593.xml,5," Her blood pressure was 100/70 mmHg with a pulse rate of 98 beats/min, respiratory rate about 16/min and oral temperature of 37°C."
+EN100593.xml,6," Respiratory, cardiovascular and neurological examinations were unremarkable."
+EN100593.xml,7, The abdomen was grossly distended with visible collateral veins.
+EN100593.xml,8," Liver was enlarged, hard, nodular with a painful irregular edge."
+EN100593.xml,9, The spleen was not palpable.
+EN100593.xml,10, There was bipedal edema up to the mid shin.
+EN100593.xml,11, Fetal heart rate was 140 bpm and regular.
+EN100593.xml,12," Laboratory examination showed leukocytosis, anemia and normal platelet counts."
+EN100593.xml,13," Aspartate aminotransferase (AST) were raised (4times upper limit), total protein and albumin were low, 43g/L and 25g/L respectively, INR 1.20 and glycaemia 0.70g/L."
+EN100593.xml,14, Her alphafeto-protein (AFP) was higher (2232 ng/mL).
+EN100593.xml,15, HBsAg was positive.
+EN100593.xml,16, She tested negative to human immunodeficiency viruses (HIV) and HCV.
+EN100593.xml,17, Abdominal ultrasound showed a heterogeneous coarse liver with multiple hypoechoic lesions.
+EN100593.xml,18, Pelvic scan revealed a normal fetus with a gestational age of about 35 weeks.
+EN100593.xml,19, The diagnosis of hepatocellular carcinoma on a decompensated cirrhosis was made.
+EN100593.xml,20," She was managed with analgesia, spironolactone and tenofovir added for prevention of mother-to-child transmission of the hepatitis B infection."
+EN100593.xml,21, The plan was to have the mother's health improved to securely induce the labour.
+EN100593.xml,22," Unfortunately, at <date day two <pad><pad><pad>2<pad><pad><pad><pad>> of hospitalization, the patient experienced progressive loss of conscious along with epistaxis and multi-organ failure."
+EN100593.xml,23," Laboratory assessment revealed HB-8.4g/dL, WBC 37500 cells/dL, Platelets 436000/ul, INR-2.57 and recurrent hypoglycemia."
+EN100593.xml,24, Cesarean section was urgently performed and the outcome was a healthy newborn weighted 2.9kg but the mother died <date soon after <pad><pad><pad><pad><pad><pad>future<pad><pad>> 
+EN107405.xml,1,A 37-year-old Arabian woman presented with <duration 12 months <pad>12<pad><pad><pad><pad><pad><pad>> of progressive Cushing's syndrome-like symptoms.
+EN107405.xml,2, Biochemical evaluation confirmed adrenocorticotropic hormone -dependent Cushing's syndrome.
+EN107405.xml,3," However, the anatomical site of her excess adrenocorticotropic hormone secretion was not clearly delineated by further investigations."
+EN107405.xml,4, Magnetic resonance imaging of our patient's pituitary gland failed to demonstrate the presence of an adenoma.
+EN107405.xml,5, Spiral computed tomography of her chest only revealed the presence of a non-specific 7 mm lesion in her left inferobasal lung segment.
+EN107405.xml,6," Functional imaging, including a positron emission tomography scan using 18-fluorodeoxyglucose and gallium-68-DOTA-D-Phe1-Tyr3-octreotide, also failed to show increased metabolic activity in the lung lesion or in her pituitary gland."
+EN107405.xml,7, Our patient was commenced on medical treatment with ketoconazole and metyrapone to control the clinical features associated with her excess cortisol secretion.
+EN107405.xml,8," Despite initial normalization of her urinary free cortisol excretion rate, levels began to rise <duration eight months <pad>8<pad><pad><pad><pad><pad><pad>> after commencement of medical treatment."
+EN107405.xml,9," Repeated imaging of her pituitary gland, chest and pelvis again failed to clearly localize a source of her excess adrenocorticotropic hormone secretion."
+EN107405.xml,10, The bronchial nodule was stable in size on serial imaging and repeatedly reported as having a nonspecific appearance of a small granuloma or lymph node.
+EN107405.xml,11," We re-explored the treatment options and endorsed our patient's favored choice of resection of the bronchial nodule, especially given that her symptoms of cortisol excess were difficult to control and refractory."
+EN107405.xml,12," Subsequently, our patient had the bronchial nodule resected."
+EN107405.xml,13, The histological appearance of the lesion was consistent with that of a carcinoid tumor and immunohistochemical analysis revealed that the tumor stained strongly positive for adrenocorticotropic hormone.
+EN107405.xml,14," Furthermore, removal of the lung lesion resulted in a normalization of our patient's <duration 24-hour <pad><pad><pad><pad>24<pad><pad><pad>> urinary free cortisol excretion rate and resolution of her symptoms and signs of hypercortisolemia."
+EN100655.xml,1,Patient information: a 9-month-old boy presented to the emergency room with a <duration 3-day <pad><pad><pad>3<pad><pad><pad><pad>> history of refusal to bear weight on the right lower extremity and febrile peaks of up to 38.5°C for <duration 24 hours <pad><pad><pad><pad>24<pad><pad><pad>> 
+EN100655.xml,2, His parents had noted an ankle trauma in <date the previous week <pad><pad><pad><pad>resta 1 w<pad><pad>> 
+EN100655.xml,3, The primary care physician had initially suspected a talus fracture.
+EN100655.xml,4, His right ankle was immobilized by a plaster splint and his parents were instructed to apply ice.
+EN100655.xml,5," However, the child continued to experience ankle pain and fever."
+EN100655.xml,6, He was returned to the emergency room after <duration two days <pad><pad><pad>2<pad><pad><pad><pad>> 
+EN100655.xml,7, His symptoms were aggravated.
+EN100655.xml,8," The ankle was noted to be slightly edematous, but warm to the touch, and diffusely tender to palpation."
+EN100655.xml,9, His temperature was 39°C.
+EN100655.xml,10," Diagnostic assessment: the hemoglobin was 9.5 g/dl, the white blood cell count was 18800/mm 3, and the C-reactive protein (CRP) was 75 mm/h."
+EN100655.xml,11," Serum laboratory studies, including CBC count and inflammatory markers, were all elevated."
+EN100655.xml,12, An X-ray of the ankle showed a posterior-medial lytic lesion of the talus and soft tissue swelling around the ankle joint.
+EN100655.xml,13," However, the computed tomography (CT) scan findings revealed a talus fracture."
+EN100655.xml,14, A magnetic resonance imaging (MRI) was not done as it was not available.
+EN100655.xml,15, Given the clinical findings a talar osteomyelitis with septic arthritis of the ankle was suspected despite the result of the CT scan.
+EN100655.xml,16, The bone scintigraphy demonstrated a septic arthritis and the presence of bone marrow edema in the talus without being able to reach a precise diagnosis of osteomyelitis.
+EN100655.xml,17, Therapeutic intervention: the patient was urgently taken to the operating room.
+EN100655.xml,18," During the operation, the ankle joint was explored through an anterior approach."
+EN100655.xml,19," There were some false membranes, a thin turbid fluid and a pertuit at the junction bone cartilage of the talus."
+EN100655.xml,20, The talar cartilage was regular and normal-looking.
+EN100655.xml,21," The pertuit, allowing access to a cavity, was cleaned and the yellow organized fibrinous pus was drained."
+EN100655.xml,22, The biopsy specimens for the histopathological examination and culture were taken at that site.
+EN100655.xml,23," Curettage and irrigation were performed, and the joint was closed over suction drains."
+EN100655.xml,24, An empirical antibiotic treatment IV (cephalosporin + gentamycine) was initiated.
+EN100655.xml,25, Follow-up and outcomes: febrile peaks persisted during <duration the first three days. <pad><pad><pad>3<pad><pad><pad><pad>> The blood culture and the specimen of the joint isolated Staphylococcus aureus Meti-R.
+EN100655.xml,27, The anatomopathological analysis of the ankle specimen showed histological features of an abscess and hyperplastic synovial cells.
+EN100655.xml,28," So, the IV antibiotic treatment was substituted by teicoplanin with a better clinical and biological progression."
+EN100655.xml,29, Drainage was maintained for <duration twelve days <pad><pad><pad>12<pad><pad><pad><pad>> (until normalization of CRP) and intravenous antibiotics for <duration 3 weeks <pad><pad>3<pad><pad><pad><pad><pad>> 
+EN100655.xml,30," In <date the third week <pad><pad><pad><pad>suma 3 w<pad><pad>>  the peripheral leukocytes count was 8600/mL, and the CRP decreased to 2.43mg."
+EN100655.xml,31, The patient's antibiotic was then substituted by oral pristinamycin for <duration three weeks <pad><pad>3<pad><pad><pad><pad><pad>> 
+EN100655.xml,32," In <date the fourth week <pad><pad><pad><pad>suma 4 w<pad><pad>>  the ESR and CRP were 7 mm/hr and 3 mg/L, respectively."
+EN100655.xml,33, At <date that time <pad><pad><pad><pad><pad><pad>past<pad><pad>>  the patient did not complain of any pain or limitation of the range of motion of the ankle.
+EN100655.xml,34, The cast was removed <duration six weeks <pad><pad>6<pad><pad><pad><pad><pad>> after surgery.
+EN100655.xml,35, At <duration six months <pad>6<pad><pad><pad><pad><pad><pad>>  radiographies showed that the lesion healed completely.
+EN100655.xml,36, The parents were very satisfied.
+EN100655.xml,37, Their child acquired walking at the age of 14 months.
+EN100655.xml,38," In the last follow-up visit at <duration 18 months <pad>18<pad><pad><pad><pad><pad><pad>> postoperatively, the patient had no pain or limitation in walking and running."
+EN100090.xml,1,We report a case A 6 day old female neonate was referred to our center on account of bilateral eversion of the upper eyelids since birth.
+EN100090.xml,2, The baby was a full term product of an uneventful pregnancy delivered via spontaneous vaginal route.
+EN100090.xml,3, There was no use of instrumentation and she cried spontaneously at birth.
+EN100090.xml,4, Further information gathered from the referral note revealed that the child has been on gentamycin eye drop and systemic antibiotics but with no apparent improvement <date 6 days <pad><pad><pad><pad>resta 6 d<pad><pad>> prior to presentation-the reason for referral.
+EN100090.xml,5, Examination at presentation revealed an otherwise normal child with bilateral complete eversion of the upper eyelids.
+EN100090.xml,6, There were marked chemosis bilaterally worst in the right.
+EN100090.xml,7, Both eyes were double-everted using lid retractor in order to assess the conditions of the two eyeballs which were both found to be normal.
+EN100090.xml,8, Attempt at repositioning the eyelids was unsuccessful because of the marked chemosis.
+EN100090.xml,9, The child was admitted into Special baby care unit (SBCU) of our hospital to facilitate close monitoring.
+EN100090.xml,10, She was also reviewed by the pediatrician and no other abnormality was found.
+EN100090.xml,11, Perforated transparent catellar shield was applied over the eyes bilaterally to prevent trauma to the conjunctivae.
+EN100090.xml,12, She was commenced on hypertonic saline <set 4 hourly <pad><pad><pad><pad>4<pad><pad><pad>> and piece of gauze soaked with hypertonic saline was placed over the prolapsed chemosed palpebral conjunctivae for <set 3hours <pad><pad><pad><pad>3<pad><pad><pad>> <set once in a day <pad><pad><pad>1<pad><pad><pad><pad>> 
+EN100090.xml,13, She was also commenced on <set 2 hourly <pad><pad><pad><pad>2<pad><pad><pad>> ciprofloxacin hydrochloride USP equivalent to ciprofloxacin 0.3% w/v) and maxitol ointment at night.
+EN100090.xml,14," On the <date 3rd day <pad><pad><pad><pad>suma 3 d<pad><pad>> of admission, the chemosis on the right had resolved significantly but there was still poor right lid opening."
+EN100090.xml,15," However, on the <date 5th day <pad><pad><pad><pad>suma 5 d<pad><pad> > of admission, both chemosis had resolved totally with spontaneous eye lid opening."
+EN100090.xml,16, Both eyeballs were normal.
+EN100497.xml,1,"A 26 years old nulliparous woman presented to our observation for severe right-sided epistaxis, non self-limiting."
+EN100497.xml,2," She had few episodes in <duration the previous two weeks <pad><pad>2<pad><pad><pad><pad><pad>> of epistaxis, even <set 3-4 per day <pad><pad><pad>1<pad><pad><pad><pad>>  usually stopping spontaneously."
+EN100497.xml,3, She reported a negative ENT consultation except for mild hyperemia of nasal mucosa.
+EN100497.xml,4," The pregnancy was unremarkable, considered at low risk, at <duration 39.6 weeks <pad><pad>39.6<pad><pad><pad><pad><pad>> of gestation."
+EN100497.xml,5, Her familiar and personal history was negative for blood coagulopathies and hypertension.
+EN100497.xml,6, We tried to stop severe epistaxis with nasal packing and intravenous tranexamic acid.
+EN100497.xml,7, On the basis of the failure of our procedures an otolaryngologist performed an endoscopy identifying bleeding enlarged vessels.
+EN100497.xml,8," Nasal packing with hemostatic sponge was successful, the pregnant woman was admitted to ob&gyn department."
+EN100497.xml,9, Her hemoglobin levels dropped down to 6 mg/dl and she needed 4 red cell packs.
+EN100497.xml,10, <date the day after <pad><pad><pad><pad>suma 1 d<pad><pad>> her right nostril despite the tampons started bleeding again.
+EN100497.xml,11," She was referred to otolaryngologist who packed again the nose, bilaterally and used hemostatic glue."
+EN100497.xml,12," After <duration 2 more days <pad><pad><pad>2<pad><pad><pad><pad>> she started bleeding again, her nose was again packed with glue and tampons and further 2 red cell packs were given."
+EN100497.xml,13," The obstetric scan revealed biometry at 40 th centile, the Bishop score was 5, so we decided to induce labour after obtaining her informed written consent."
+EN100497.xml,14, The labour induction was performed with intravaginal prostaglandins (10 mg dinoprostone).
+EN100497.xml,15," After <duration 18 hours <pad><pad><pad><pad>18<pad><pad><pad>> the labour seemed to proceed well with cervical dilatation of 6 cm, level of head 0, but the cardiotocography (CTG) trace revealed anomalies that after <duration 1 hour <pad><pad><pad><pad>1<pad><pad><pad>> induced the shift versus cesarean section."
+EN100497.xml,16, No epistaxis happened during labour nor during cesarean section.
+EN100497.xml,17," <date two days after <pad><pad><pad><pad>suma 2 d<pad><pad>> nasal tampons were removed, the patient was discharged <date the day after <pad><pad><pad><pad>suma 1 d<pad><pad>> "
+EN100497.xml,18," <date one month later <pad><pad><pad><pad>suma 1 m<pad><pad>> the woman reported general good health and no epistaxis episodes, nor mild nor massive."
+EN103007.xml,1,"A 54-year-old female patient was admitted to our surgical department with a <duration 2 mo <pad>2<pad><pad><pad><pad><pad><pad>> history of decreased appetite, nausea, vomiting, and weight loss, which progressed to difficulty in feeding <duration 3 d <pad><pad><pad>2<pad><pad><pad><pad>> prior to her visit."
+EN103007.xml,2," According to her medical history, she was diagnosed with refractory ITP [platelets (PLT), 3000-8000/μL] <date 10 years ago <pad><pad><pad><pad>resta 10 y<pad><pad>> "
+EN103007.xml,3," After admission, the patient underwent a splenectomy and a distal subtotal gastrectomy (D2 radical resection) with Roux-en-Y reconstruction simultaneously."
+EN103007.xml,4, She had an uneventful postoperative course with a slight increase in her PLT count.
+EN103007.xml,5, This case is unique in terms of the patient's complication of severe and medically refractory ITP.
+EN106156.xml,1,A 2-year-old Japanese boy <date recently <pad><pad><pad><pad><pad><pad>past<pad><pad> > presented to our department with a chief complaint of neck swelling.
+EN106156.xml,2,"
+Physical examination revealed bilateral tonsillitis and swelling of the left posterior pharyngeal wall."
+EN106156.xml,3,"
+Emergency neck computed tomography angiography showed a contrast-enhanced abscess cavity posterior to the left retropharyngeal space, and a low-density area surrounded by an area without contrast enhancement in the posterior neck."
+EN106156.xml,4,"
+The latter was suspected to be a deep neck infection secondary to a retropharyngeal abscess."
+EN106156.xml,5,"
+After surgery, the patient was diagnosed with a retropharyngeal abscess and concurrent cystic lymphangioma."
+EN106156.xml,6,"
+The lesions improved after intraoral incision and drainage, and administration of antibiotics."
+EN100645.xml,1,"A 53-year-old woman presented with a posterior left retroauricular mass, that was discovered <date 10 months ago <pad><pad><pad><pad>resta 10 m<pad><pad>> and resected respectively at a local hospital."
+EN100645.xml,2," <duration ten days <pad><pad><pad>10<pad><pad><pad><pad>> after this operation, a pruritic, painless lesion of a size 2 cm x 2 cm was observed at the incision area."
+EN100645.xml,3," The patient had no history of migraine, loss of hearing, drug allergy, or trauma."
+EN100645.xml,4," Otoscope examination revealed an external auditory meatus protrusion, with a normal tympanic membrane."
+EN100645.xml,5, Magnetic resonance imaging (MRI) revealed a heterogeneous lesion.
+EN100645.xml,6, The patient underwent extended left parotidectomy.
+EN100645.xml,7, An s-incision of 10 cm long was made extending from the earlobe towards the mandibular angle.
+EN100645.xml,8," With palpation, the tumour was located in the parotid gland."
+EN100645.xml,9, The superficial lobe of the parotid gland was gradually removed with caution to the facial nerve trunk.
+EN100645.xml,10, The tumour had invaded the deep lobe of the parotid gland and the posterior wall of the external auditory canal.
+EN100645.xml,11," The deep lobe of the parotid gland was removed simultaneously, and the left cervical lymph node dissection was performed in levels II-IV, with its adipose connective tissue."
+EN100645.xml,12, The diameter of the larger lymph node being 2 cm.
+EN100645.xml,13, A method of sleeve resection was used to remove the protruding posterior wall of the external auditory canal.
+EN100645.xml,14, A drainage tube was inserted.
+EN100645.xml,15," There was no complication, the operation was completed and the patient recovered well."
+EN100645.xml,16," The pathological results showed that the tumour of about 2 cm x 2 cm x 1.4 cm, involved the epidermis, vessels, and nerves."
+EN100645.xml,17, There was a distribution of the lymph node with metastasis and distribution of the external auditory canal with mucoepidermoid carcinoma.
+EN100645.xml,18," Immunohistochemistry results showed CK7 (+), calponin (-), CK5/6 (+), P63 (+), S-100 (-), Dog-1 (+), CD117 (-), Ki-67 (+5%), P53 (-), and EMA (+)."
+EN100645.xml,19, Hematoxylin and eosin (H&E) staining indicated a D-PAS positive.
+EN100645.xml,20, The clinical diagnosis was pleomorphic adenoma.

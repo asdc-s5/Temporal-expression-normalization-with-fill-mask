@@ -1,0 +1,350 @@
+File,Sentence,String
+IT101197.xml,1,"C AM, femmina, 7 anni."
+IT101197.xml,2, <date marzo 2008 2008 03<pad><pad><pad><pad><pad><pad><pad>>  episodio di ematuria macroscopica secondario a lieve trauma addominale.
+IT101197.xml,3, Eco Addome: presenza di massa addominale ad apparente partenza renale.
+IT101197.xml,4, TC addome e torace: presenza di massa a partenza renale con sospetto di secondarismi polmonari.
+IT101197.xml,5," <date marzo 2008 2008 03<pad><pad><pad><pad><pad><pad><pad> > nefro - ureterectomia dx; referto istologico: “tumore di Wilms unicentrico del rene destro, stadio II senza anaplasia diffusa.”"
+IT101197.xml,6, <date aprile 2008 2008 04<pad><pad><pad><pad><pad><pad><pad>> inizia chemioterapia secondo protocollo TW AIEOP 2003 (Regime B).
+IT101197.xml,7," <date settembre 2008 2008 09<pad><pad><pad><pad><pad><pad><pad>> stop terapia: TC del torace: comparsa di multiple, millimetriche immagini rotondeggianti a livello del mantello polmonare bilateralmente."
+IT101197.xml,8," Biopsia del lobo polmonare superiore dx: “Metastasi multiple di Tumore di Wilms bifasico a prevalenza blastematosa e con parte minore di tipo epiteliale, senza anaplasia.”"
+IT101197.xml,9, <date novembre 2008 2008 11<pad><pad><pad><pad><pad><pad><pad>> inizia terapia con ICE x 4 cicli e raccoglie CSEP.
+IT101197.xml,10," <date marzo 2009 2009 03<pad><pad><pad><pad><pad><pad><pad> > chemioterapia ad alte dosi con carboplatino 200 mg/m2, etoposide 200 mg/m2 e melfalan 140 mg/m2, seguita dalla reinfusione di 17,7x10^6 CD34+ autologhe per kg di peso corporeo."
+IT101197.xml,11, <date maggio 2009 2009 05<pad><pad><pad><pad><pad><pad><pad>> radioterapia total lung 1500 cGy.
+IT101197.xml,12, <date ottobre 2009 2009 10<pad><pad><pad><pad><pad><pad><pad> > TC Torace: Comparsa di 3 formazioni nodulari (diametro max 5 mm) al segmento basale laterale.
+IT101197.xml,13," Intervento di metastasectomia, istologia: “Metastasi multiple di tumore di Wilms bifasico a prevalenza blastematosa."
+IT101197.xml,14, <date novembre 2009 2009 11<pad><pad><pad><pad><pad><pad><pad> > TVD per 2 cicli.
+IT101197.xml,15, TC torace: incremento dimensionale delle lesioni nodulari di natura secondaria segnalati.
+IT101197.xml,16, <date febbraio 2010 2010 02<pad><pad><pad><pad><pad><pad><pad> > due cicli di terapia con ciclofosfamide e doxorubicina liposomiale (Myocet).
+IT101197.xml,17, TC torace: ulteriore incremento dimensionale e numerico delle lesioni già descritte.
+IT101197.xml,18, <date maggio 2010 2010 05<pad><pad><pad><pad><pad><pad><pad>> Paclitaxel per 2 cicli.
+IT101197.xml,19, TC torace: ulteriore incremento dimensionale delle 6 lesioni polmonari pre-esistenti.
+IT101197.xml,20," In considerazione dell’inefficacia della terapia somministrata, in assenza di ulteriori opzioni terapeutiche standard potenzialmente efficaci e dopo colloquio con i genitori si decide di avviare la paziente a trapianto aploidentico, possibilmente NK allo reattivo, da genitore."
+IT101197.xml,21, In assenza di allo reattività in entrambi ge nitori e per la non idoneità fisica della madre la scelta del donatore cade sul padre.
+IT101197.xml,22," <date agosto 2010 2010 08<pad><pad><pad><pad><pad><pad><pad>> inizia regime di condizio namento con melphalan 140 mg/m2, thiotepa 10 mg/kg, fludarabina 160 mg/m2, ATG 6 mg/kg seguito dalla reinfusione di 22x10^6 cellule CD34+/kg di peso corporeo, T-depleted con sistema Clinimacs."
+IT101197.xml,23," Il numero di linfociti CD3+ infusi al paziente é pari a 7,1x10^4/kg di peso corporeo."
+IT101197.xml,24," Attecchimento dei PMN e delle PLT rispettivamente in <date giornata +14 <pad><pad><pad>suma 14 d<pad><pad><pad><pad>> dal trapianto, non segni di GvHD acuta, non tossicità acuta correlata al trattamento."
+IT101197.xml,25, Dimissione in <date giornata +24 <pad><pad><pad>suma 24 d<pad><pad><pad><pad> > dal trapianto.
+IT101197.xml,26," Tra il <date giorno +14 <pad><pad><pad>suma 14 d<pad><pad><pad><pad>> e il <date +50 <pad><pad><pad>suma 50 d<pad><pad><pad><pad> > dal trapianto, incremento costante del numero di cellule CD16+CD56+/CD3– dal 2% al 86% del totale dei GB circolanti e da 70/mcl a 3200/mcl. <date 28 settembre 2010 2010 09<pad>28<pad><pad><pad><pad><pad>> TC torace: Notevole riduzione dimensionale in 3 delle 6 lesioni pre-esistenti."
+IT101197.xml,27, Invariate le restanti 3 lesioni.
+IT100711.xml,1,Una donna Ucraina di 53 aa veniva ricoverata per pancreatite acuta (<date 4 mesi prima <pad><pad><pad>resta 4 m<pad><pad><pad><pad> > un episodio analogo da cui esitava una pseudocisti della coda indagate a TC e RMN).
+IT100711.xml,2," All’eco addome riscontro di lesione cefalopancreatica con dilatazione dell’albero biliare, confermata a TC (17 mm) ed associata, a TC, a flogosi del grasso in prossimità della nota cisti."
+IT100711.xml,3, Sono state effettuate 2 EUS+FNAB negative per neoplasia o infiltrazione linfocitaria.
+IT100711.xml,4, Ad esami riscontro di marcato rialzo IgG4 (12xULN).
+IT100711.xml,5, Rivalutazione anamnesi con interprete: rifeti edemi periorbitari e tumefazione sottomandibolare ricorrenti.
+IT100711.xml,6," È stata posta diagnosi di verosimile Sindrome da IgG4 con pancreatite autoimmune tipo 1, fibrosi retroperitoneale, orbitopatia da Ig4 e sialoadenite di Mikulicz; A criteri HISORt mancanza criterio istologico per diagnosi conclusiva, per cui intrapresa terapia steroidea ex adjuvantibus."
+IT100711.xml,7," Dopo <duration 1 mese <pad>1<pad><pad><pad><pad><pad><pad>> normalizzazione lipasi, riduzione IgG4, regressione lesione pancreatica, fibrosi retroperitoneale, orbitopatia e sialoadenite."
+IT100711.xml,8," A <duration 7 mesi <pad>7<pad><pad><pad><pad><pad><pad>> da inizio tp nuovo episodio di pancreatite acuta, a TC addome comparsa di multiple nuove cisti con aspetti infiltrativi su flessura splenica."
+IT100711.xml,9," È stata ripetuta EUS+FNAB su cisti con riscontro di epitelio mucinoso su parete, sollevando il sospetto di una neoplasia mucinosa."
+IT100711.xml,10, Dopo <duration 2 settimane <pad><pad>2<pad><pad><pad><pad><pad>> episodio di addome acuto con aspetti TC addome di rottura di cisti addominale.
+IT100711.xml,11, Paziente sottoposta a pancreasectomia distale.
+IT100711.xml,12," Istologico conclusivo di pseudocisti con presenza su linfonodi regionali di 50% di plasmacellule producenti IgG4, compatibile con Sindrome da IgG4."
+IT101184.xml,1,"B.M., bambino caucasico di 11 mesi, giunto all’osservazione <date nel febbraio 2011 2011 02<pad><pad><pad><pad><pad><pad><pad> > per porpora di n.d.d. e febbre (38,5°C) da <duration 3 giorni <pad><pad><pad>3<pad><pad><pad><pad>> "
+IT101184.xml,2, Secondogenito di famiglia con basso livello socio-economico e con anamnesi remota e familiare negativa per patologie degne di nota.
+IT101184.xml,3," All’esame obiettivo stato di abbattimento, cute pallida, presenza di petecchie diffuse al tronco, iperemia intensa del faringe e rinite sierosa."
+IT101184.xml,4," Gli esami eseguiti mostravano lieve leucocitosi (12,03 x 103 / mm3), lieve linfocitosi relativa (57%), lieve trombocitosi (538 x 103 / mm3) divenuta moderata durante il ricovero (826 x 103 / mm3), VES mossa (19 mm/sedim; v.n.<10), anticorpi IgG anti-Epstein Barr Virus positivi (VCAIgG> 750 U/ml; negativi i VCA-IgM e gli EBNA-IgG), EBV-DNA positivo in saliva (20,4x106 copie/ml) e negativo nel sangue, moderata leucocituria (500 leucociti/ micrl); nella norma PT e PTT, PCR, indici epato-renali, tampone faringeo, urinocoltura e altre ricerche virologiche."
+IT101184.xml,5," L’esame morfologico del sangue periferico confermava la trombocitosi, senza altre alterazioni degne di nota."
+IT101184.xml,6, Alla dimissione sono stati programmati controlli post-ricovero per la persistenza di trombocitosi (PLT: 735 x 103 / mm3).
+IT101184.xml,7," All’età di 16 mesi, nuovo ricovero per febbre (39°C) e stato di abbattimento."
+IT101184.xml,8," All’EO cute pallida, faringe iperemico, fegato e milza palpabili a 2 cm dall’arco costale, edema periorbitario sinistro e ferita lacero-contusa suppurata in regione frontale, suturata <date 5 giorni prima <pad><pad><pad>resta 5 d<pad><pad><pad><pad> > in PSP, ove erano stati adottati, tuttavia, gli adeguati protocolli comuni (sutura in ambiente sterile e terapia antibiotica domiciliare con amoxicillina-ac.clavulanico)."
+IT101184.xml,9," Dagli esami risultava moderata leucocitosi (32,28 x 103 / mm3), neutrofilia (62,9%), moderata trombocitosi (732 x 103 / mm3), indici di flogosi aumentati (VES: 36 mm/sedim, PCR: 6,26 mg/dl) ed incremento delle GOT (66 UI/dl); nella norma gli altri indici epato-renali, immunoglobuline e sottopopolazioni linfocitarie."
+IT101184.xml,10," L’esame colturale della ferita risultava positivo per Staphilococcus epidermidis, resistente ad amoxicillina-ac.clavulanico e sensibile alle cefalosporine."
+IT101184.xml,11," Gli esami virologici indicavano positività dell’EBV-DNA sia in saliva (1,83x106copie/ml) che nel sangue (6,72x103copie/ml)."
+IT101184.xml,12, Le condizioni cliniche del bambino miglioravano prontamente dopo adeguato courettage della FLC e terapia antibiotica con ceftriaxone.
+IT101184.xml,13," Alla dimissione persisteva, tuttavia, moderata trombocitosi (806 x 103 / mm3)."
+IT101184.xml,14, <date dopo 20 giorni <pad><pad><pad>suma 20 d<pad><pad><pad><pad> > al controllo post-ricovero il bambino presentava gastroenterite acuta (con Rotavirus positivo nelle feci) e persistente trombocitosi (794 x 103 / mm3).
+IT101184.xml,15," <date dopo 2 mesi circa <pad><pad><pad>suma 2 m<pad><pad><pad><pad> >  in seguito a nuovo accesso al Pronto Soccorso Pediatrico per gastro-enterite, gli esami ematici evidenziavano il protrarsi della trombocitosi (727 x 103 / mm3), rilevata anche a distanza di <duration circa 1 mese <pad>1<pad><pad><pad><pad><pad><pad>> in occasione di controllo in regime di Day-Hospital (PLT: 679 x 103 / mm3; Ab IgG anti-EBV ed EBNA positivi; EBV-DNA positivo in saliva ed urine)."
+IT101179.xml,1,"Paziente maschio giunto alla nostra osservazione a un anno d’età per astenia, inappetenza da <duration dieci giorni <pad><pad><pad>10<pad><pad><pad><pad>>  febbre da <duration tre giorni <pad><pad><pad>3<pad><pad><pad><pad>> "
+IT101179.xml,2, Genitori Pakistani cugini di primo grado.
+IT101179.xml,3," Bambino nato in Pakistan, in Italia da <duration due mesi <pad>2<pad><pad><pad><pad><pad><pad>>  dieta con allattamento materno pressoché esclusivo."
+IT101179.xml,4," All’ingresso condizioni scadenti, distrofia, pallore, restante obiettività normale."
+IT101179.xml,5," Gli esami rivelavano gravissima anemia macrocitica, piastrinopenia, neutropenia (Hb 3,7 g/dl, MCV 101 fl, globuli bianchi 14.200/ ml, neutrofili 660/ ml, plt 55.000/ml) LDH e bilirubina aumentati (LDH 2.930 mU/ml, bilirubina 2,2 mg/dl)."
+IT101179.xml,6," Date le gravi condizioni il paziente veniva ricoverato in Terapia intensiva pediatrica, sottoposto a trasfusione di emazie concentrate ed infusione di vitamina B12 ex iuvantibus (non effettuati dosaggi di cianocobalamina e acido folico pre-supplementazione)."
+IT101179.xml,7," Durante la degenza venivano esclusi: - leucosi acuta o mielodisplasia: non blasti nello striscio di sangue periferico e nell’aspirato midollare (che mostrava gravissima diseritropoiesi, restante parenchima ipodisplasico); - patologie infettive: emoscopia per malaria, esame copro-parassitologico, anticorpi anti Leishmania, ricerca midollare di Leishmania, Widal-Wright, Weil-Felix: negativi; - wmolisi: test di Coombs, aptoglobina normali; - pancitopenia di Fanconi: cariotipo con DEB negativo; - sindrome di Schwachmann: funzione pancreatica normale; non alterazioni scheletriche; - malattie metaboliche: aminoacidemia, acidi organici urinari normali."
+IT101179.xml,8," Decorso clinico ed epicrisi: si assisteva ad una progressiva normalizzazione delle condizioni cliniche con supplementazione di acido folico, vitamina B 12 e con dieta adeguata all’età."
+IT101179.xml,9," Il quadro complessivo faceva pensare in primis ad una forma carenziale di B12, la cui diagnosi non era certa per mancanza dei dosaggi basali."
+IT101179.xml,10," <duration nei mesi <pad>x<pad><pad><pad><pad><pad><pad>> successivi alla dimissione le condizioni del bimbo si mantenevano buone, i parametri ematologici erano nella norma mentre i livelli serici di B12 rimanevano ai limiti inferiori, nonostante la supplementazione per os; <date dopo sette mesi <pad><pad><pad>suma 7 m<pad><pad><pad><pad> > si assisteva a ricomparsa dell'anemia macrocitica (Hb 7,9 g/dl, MCV 98,7 fl), corretta con vitamina B12 parenterale."
+IT101179.xml,11," Si poneva quindi il sospetto di Sindrome di Imerslund-Grasbeck, patologia autosomica recessiva secondaria a mutazioni del gene Cubilina (cromosoma 10) o del gene Amnionless (cromosoma 14), che portano a difetto del recettore per il complesso vitamina B12-fattore intrinseco dell’enterocita ileale e del recettore per il riassorbimento tubulare renale di proteine."
+IT101179.xml,12," Tale condizione si associa ad infezioni respiratorie ricorrenti, scarsa crescita, proteinuria."
+IT101179.xml,13, L’analisi molecolare di CUBN confermava l’ipotesi diagnostica.
+IT101179.xml,14," Il paziente è risultato eterozigote composto per una mutazione di splicing ereditata dal padre (c. 252+1G>A) e per un’ampia delezione, ereditata dalla madre, che si estende all’incirca da 50 Kb prossimalmente fino all’esone 28."
+IT101179.xml,15, La metà 5' del gene risulta deleta; gli esatti punti di rottura non sono ancora definiti.
+IT101179.xml,16, L’analisi del cariotipo della madre ha escluso riarrangiamenti cromosomici.
+IT101179.xml,17, Il paziente è in terapia cronica con 100 mcg di cianocobalamina/ mese per via parenterale.
+IT101179.xml,18," L’emocromo è normale; persiste lieve proteinuria senza danno renale, come descritto nella sindrome."
+IT100460.xml,1,"Uomo 51 aa con cirrosi HCV Child Pough A, TURV per Ca uroteliale in remissione, ricoverato per intensi dolori inguinali bilaterali irradiati agli arti inferiori, insorti da <duration poche ore <pad><pad><pad><pad>x<pad><pad><pad>>  febbre <date la sera prima <pad><pad><pad>resta 1 d<pad><pad><pad>tni> "
+IT100460.xml,2," All’ingresso apiretico, parametri nella norma, PCR 20 mg/l, leucociti 5.410/mmc, Hb 11,7 g/dl, piastrine 53.000/mmc (come i precedenti), il resto nella norma."
+IT100460.xml,3," EO non lesioni cutanee, né edemi, non iperemia cutanea arti inferiori, non ascite."
+IT100460.xml,4," TC: ipertrofia muscoli ileo-psoas, medio gluteo sx e iperdensità sottocutanea nella regione glutea sx, addensamento polmonare al lobo inferiore sx."
+IT100460.xml,5," RM: edema interstiziale ai muscoli ileo-psoas, otturatori, adduttori, glutei, vasto laterale, retto femorale, tensore della fascia lata bilaterale, edema del tessuto adiposo dello scavo pelvico, non raccolte."
+IT100460.xml,6," Es. <date 2 ore dopo <pad><pad><pad><pad>2<pad><pad><pad>>  PCR 25,6 mg/l, 6.050 gb/mmc, Hb 12,6 g/dl, piastrine stabili, CPK 113.000 U/l, mioglobina 17.204 ug/l, AST 1810 U/l."
+IT100460.xml,7," Dopo emocolture in apiressia, iniziava Vancomicina e Meropenem ev."
+IT100460.xml,8, Per rapido aggravamento trasferito in UTI ma decesso dopo <date 6 ore <pad><pad><pad><pad>6<pad><pad><pad>> (<date 12 ore <pad><pad><pad><pad>12<pad><pad><pad>> dal ricovero).
+IT100460.xml,9," Emocolture: Streptococcus Zooepidemicus sensibile a Penicillina, Levofloxacina e Vancomicina, resistente a Clindamicina."
+IT100460.xml,10," Il paziente lavorava in un maneggio, spesso a contatto con deiezioni."
+IT100460.xml,11," Peculiarità del caso: epidemiologia (zoonosi, trasmissione aerea?)"
+IT100460.xml,12,", clinica (rapida evoluzione a esito infausto con imponente rabdomiolisi, in assenza di evidente stato settico, solo con lieve flogosi) e resistenza dello Streptococco a Clindamicina, farmaco indicato come I scelta nelle gravi infezioni."
+IT100003.xml,1,"Gabriele è un uomo di 53 anni, affetto <date dal 2004 2004<pad><pad><pad><pad><pad><pad><pad><pad> > da malattie croniche altamente invalidanti: la distrofia muscolare di tipo 1 e il diabete mellito di tipo 2."
+IT100003.xml,2," Vive in un piccolo borgo di Trieste in una zona periferica, con la madre anziana, in quanto, a causa delle sue patologie e di un basso livello di scolarità, non è mai riuscito a emanciparsi e a trovare un’occupazione."
+IT100003.xml,3," Le condizioni fisiche dell’uomo sono molto peggiorate nel corso <duration degli ultimi anni x<pad><pad><pad><pad><pad><pad><pad>>  limitando la sua funzione motoria, fino al ricorso, <date nell’ultimo anno <pad><pad><pad>neutro 0 y<pad><pad><pad><pad> >  all’utilizzo di una carrozzina per potersi muovere."
+IT100003.xml,4, All’inizio <date del 2017 2010<pad><pad><pad><pad><pad><pad><pad><pad> >  la madre di Gabriele muore per una malattia improvvisa.
+IT100003.xml,5," Nonostante la presenza del fratello e di alcuni amici, Gabriele si sente solo e si lascia andare."
+IT100003.xml,6," Non si controlla più il diabete, cade più volte all’interno del proprio domicilio, non esce di casa per la presenza di barriere architettoniche importanti e i suoi deficit motori peggiorano ulteriormente."
+IT100003.xml,7," La presa in carico da parte dei servizi territoriali del Distretto n. 1 dell’ASUGI di Trieste si articola in una valutazione da parte di un’equipe composta dall’infermiera, dal medico di medicina generale, dal fisioterapista e dall’assistente sociale per l’attivazione della rete e di un piano assistenziale individuale."
+IT100003.xml,8, La costruzione del piano assistenziale in base ai bisogni e alla collaborazione di Gabriele prevede l’intervento del fisiatra per un programma riabilitativo e del fisioterapista per la fornitura di ausili adeguati alle necessità della persona.
+IT100003.xml,9," Un letto articolato, un materasso antidecubito e una carrozzina hanno permesso la mobilità sicura all’interno della casa, ma l’intervento più significativo è stato la fornitura di uno scendiscale e di una carrozzina elettrica specifica per uscire dall’abitazione e superare le barriere architettoniche."
+IT100003.xml,10, L’assistente sociale è intervenuta con l’attivazione di un progetto di sostegno al reddito e il contributo per una badante per <set venti ore alla settimana <pad><pad>1<pad><pad><pad><pad><pad>>  per aiutare l’uomo in tutte le attività della vita quotidiana.
+IT100003.xml,11," Nella valutazione multidimensionale con scheda Valgraf, prevista per la presa in carico, è stata inserita anche la valutazione con la scala PHE-S®, che ha rilevato un valore basso di engagement pari a 2."
+IT100003.xml,12," La rivalutazione a <duration 4 mesi <pad>4<pad><pad><pad><pad><pad><pad>> di distanza dopo la costruzione della rete assistenziale ha permesso di evidenziare un innalzamento di mezzo punto, dimostrando che Gabriele ha compreso il suo ruolo attivo nel processo di cura e ha messo in atto tutte le competenze acquisite per gestirlo in modo ottimale e in autonomia."
+IT100003.xml,13," Ora si muove con la sua carrozzina elettrica in autonomia per le vie del paese, si sottopone ai controlli per il diabete in modo costante con valori delle glicemie stabili nei range previsti dalla diabetologa e mantiene uno stile di vita adeguato alle sue patologie."
+IT100002.xml,1,"Anna è una donna di 47 anni, vive con il figlio in un piccolo appartamento in un paese carsico, lavora nel campo della ristorazione e, nonostante una patologia genetica familiare che provoca delle alterazioni scheletriche, cardiologiche, oculari e cutanee, vive una vita serena e tranquilla."
+IT100002.xml,2, Ha una buona rete familiare e informale che supporta la famiglia.
+IT100002.xml,3, Viene seguita da un centro di riferimento specifico per patologia rara a Bologna e si sottopone a controlli clinicostrumentali periodici e regolari.
+IT100002.xml,4, Nel <date gennaio del 2017 2017 01<pad><pad><pad><pad><pad><pad><pad>> esegue un intervento chirurgico di piede torto congenito presso l’Istituto Rizzoli.
+IT100002.xml,5," Durante la degenza, a seguito di un dolore retrosternale e di una sincope, viene sottoposta a un intervento di endoprotesi di aorta per dissezione acuta."
+IT100002.xml,6," Al rientro a casa, nel <date marzo del 2017 2017 03<pad><pad><pad><pad><pad><pad><pad> >  deve proseguire i controlli cardiologici ed eseguire la fisioterapia per gli esiti di intervento al piede e regolari controlli ematici."
+IT100002.xml,7," Non essendo autonoma nella deambulazione, viene presa in carico dai servizi del Distretto n. 1 dell’ASUGI di Trieste."
+IT100002.xml,8," Anna sembra, in un primo momento, una persona collaborante al piano assistenziale predisposto, ma, dopo un paio di interventi per controllare gli esiti della ferita al piede, si intuisce che qualcosa non funziona."
+IT100002.xml,9," Si somministra la scheda PHE-S® per una valutazione dell’elaborazione del vissuto della malattia, riscontrando un punteggio di 2,5."
+IT100002.xml,10," Parlando con lei emerge una profonda difficoltà ad accettare l’intervento al cuore, riferisce di sentirsi bloccata e ripete spesso: “Sono in black out”."
+IT100002.xml,11," Questa incapacità di reagire è evidente sul piano pratico: non controlla la pressione arteriosa come suggerito dalle dimissioni ospedaliere, non si preoccupa dei risultati delle analisi diagnostico-strumentali, ma è, invece, molto concentrata sul piede che le provoca molto dolore."
+IT100002.xml,12," In questo caso, il piano assistenziale individuale ha previsto un ciclo di fisiokinesiterapia per l’arto inferiore, interventi infermieristici di monitoraggio dei parametri vitali e del dolore, educazione terapeutica, controlli cardiologici ed esami ematochimici."
+IT100002.xml,13," Per lo stato di “black out”, si è proposto l’intervento di una psicoterapeuta del Distretto Sanitario, per cercare di attivare risorse atte a superare lo shock dell’intervento chirurgico al cuore."
+IT100002.xml,14," La vita è cambiata radicalmente per questa giovane donna, non può rientrare presso la sua sede lavorativa, l’attività in piedi per molte ore non è consentita per il suo stato di salute e arriva, quindi, il licenziamento."
+IT100002.xml,15, Un colloquio con l’assistente sociale si rende necessario per capire come indirizzare Anna alle varie possibilità di sostegno economico per lei e la sua famiglia.
+IT100002.xml,16, I valori della PHE-S dopo <duration 4 mesi <pad>4<pad><pad><pad><pad><pad><pad>> di interventi sono incrementati fino a raggiungere un punteggio pari a 3.
+IT100002.xml,17," Lentamente e con il supporto dell’infermiera e della fisioterapista, Anna inizia ad avere un ruolo attivo nella gestione della sua salute."
+IT100002.xml,18," Si misura costantemente la pressione arteriosa, che si mantiene nei valori consigliati dal cardiologo, si sottopone agli accertamenti di controllo, inizia a riconoscere gli effetti di 60 Engagement e coinvolgimento attivo ciascuna terapia, riesce a fare spostamenti munita di stampelle in autonomia e sostituisce il medico di medicina generale che è andato in pensione con un professionista attivo e collaborante."
+IT100002.xml,19," Infine, riesce a mettere in atto e a mantenere cambiamenti dello stile di vita relativi al suo stato di salute: segue una corretta alimentazione e un’adeguata attività fisica, si iscrive alle liste di collocamento speciali per persone con ridotte capacità e inizia a frequentare corsi di formazione per poter avere la possibilità di esercitare un nuovo lavoro."
+IT101097.xml,1,"Il signor Franco, di anni 62 viene accompagnato al PS dal 118 perché presenta cefalea generalizzata, acufeni, nausea e vomito, bradicardia, vertigini, crisi convulsive e alterazioni dello stato di coscienza."
+IT101097.xml,2," Il signor Franco soffre di ipertensione arteriosa, <date 2 anni fa <pad><pad><pad>resta 2 y<pad><pad><pad><pad> > gli è stata diagnosticata la fibrillazione atriale, e per questo è in trattamento con anticoagulante."
+IT101097.xml,3, Il medico decide di fare una TC Cranio che evidenzia l'aumento della PIC a causa di un'emorragia cerebrale.
+IT101097.xml,4, Verosimilmente da attribuire alla presenza di un picco pressorio.
+IT101097.xml,5, Il paziente viene operato d’urgenza e a fine intervento viene posizionato un drenaggio per il monitoraggio della PIC.
+IT100015.xml,1,"Si descrive il caso di una paziente di anni 52, con diagnosi bioptica <date nel 1983 1983<pad><pad><pad><pad><pad><pad><pad><pad> > di GN membranosa, sottrattasi al follow-up per <duration alcuni anni x<pad><pad><pad><pad><pad><pad><pad>> e ripresa in carico ambulatoriale con un grado di insufficienza renale avanzato (Crs 4,5 mg/dl)."
+IT100015.xml,2," Costituzionalmente obesa (BMI = 34), era stata esclusa dalla dialisi peritoneale per la presenza di alcune controindicazioni cliniche insieme a scarsa accettazione della paziente."
+IT100015.xml,3," <date nel maggio 2005 2005 05<pad><pad><pad><pad><pad><pad><pad> > era stata sottoposta a un primo intervento di confezionamento di FAV radiocefalica sinistra che <date poche settimane dopo <pad><pad><pad><pad><pad><pad><pad><pad>>  in concomitanza di un episodio ipotensivo, andava incontro a trombosi precoce."
+IT100015.xml,4, <date alla fine dello stesso anno <pad><pad><pad>neutro 0 y<pad><pad><pad><pad> > si procedeva con successo all’allestimento di una FAV prossimale omerocefalica sinistra.
+IT100015.xml,5, Il trattamento emodialitico cronico era infine avviato <date nel dicembre 2006 2006 12<pad><pad><pad><pad><pad><pad><pad> > 
+IT100015.xml,6," Dopo <duration circa 12 mesi <pad>12<pad><pad><pad><pad><pad><pad>> di dialisi trascorsi senza problemi clinici, si osservavano progressivi segni di dilatazione, tortuosità, iperpulsatilità della FAV con tempi di tamponamento prolungati a fine dialisi."
+IT100015.xml,7," L’esecuzione di un ecodoppler, non metteva in evidenza segni di stenosi sul decorso della vena a livello del braccio, mentre più prossimalmente il colordoppler registrava a livello del tratto precedente la confluenza cefalico-succlavia spiccate turbolenze cui corrispondeva al duplex un notevole aumento della velocità di flusso fino a 4,5 m/s."
+IT100015.xml,8, Il reperto nel complesso deponeva per la presenza di una stenosi serrata.
+IT100015.xml,9," Lo studio flebografico confermava una stenosi pre-occlusiva alla confluenza tra vena cefalica e succlavia che veniva trattata con PTA a 7 mm e successivamente a 9 mm a 14 atm, ottenendo l’adeguato ripristino del calibro vascolare."
+IT100015.xml,10, Veniva inserita terapia antiaggregante con 100 mg/<set die <pad><pad><pad>1<pad><pad><pad><pad>> di acido acetilsalicilico.
+IT100015.xml,11," Il controllo ecodoppler <date del novembre 2008 2008 11<pad><pad><pad><pad><pad><pad><pad>> evidenziava recidiva della stenosi precedentemente dilatata che veniva sottoposta nuovamente a PTA mediante cateteri a palloncino da 7 e 8 mm sino a 30 atm e successivamente da 10 mm, con buon esito angiografico."
+IT100015.xml,12," Tuttavia <date nel marzo 2009 2009 03<pad><pad><pad><pad><pad><pad><pad> > l’ecodoppler mostrava ancora segni di recidiva stenotica: dopo un inefficace tentativo di dilatazione con palloni ad alta pressione (Conquest da 7 e 8 mm gonfiati fino a 30 atmosfere), l’angioradiologo poneva indicazione a posizionamento di stent convenzionale a 9 mm con buon risultato finale e senza complicanze."
+IT100015.xml,13, La terapia antiaggregante veniva potenziata con doppia copertura farmacologica (acido acetilsalicilico 100 mg + ticlopidina 250 mg <set die <pad><pad><pad>1<pad><pad><pad><pad>> .
+IT100015.xml,14, Nel periodo a seguire fino <date al maggio 2011 2011 05<pad><pad><pad><pad><pad><pad><pad> > i controlli ecodoppler hanno sempre confermato pervietà dello stent senza segni di restenosi.
+IT100015.xml,15, La misurazione del flusso dell’accesso eseguita con il metodo della diluizione degli ultrasuoni (Transonic) a partire dalla prima procedura ha costantemente evidenziato un’elevata portata della FAV (range 2500-3000 ml/min).
+IT100415.xml,1,Vi presentiamo un caso clinico.
+IT100415.xml,2," Giunge alla nostra osservazione una donna di 50 anni, fumatrice di circa 10 sigarette al dì, che riferisce dolori addominali post prandiali, che durano <duration circa un paio d’ore <pad><pad><pad><pad>2<pad><pad><pad>>  accompagnati da nausea, conati di vomito e senso di fatica respiratoria."
+IT100415.xml,3, La paziente riferisce inoltre gonfiore addominale subito dopo i pasti e riduzione del peso corporeo (circa in <duration un mese <pad>1<pad><pad><pad><pad><pad><pad>> .
+IT100415.xml,4, Si decide di ricoverare la paziente in regime di DH presso la nostra struttura ospedaliera per sottoporla ad indagini laboratoristiche e diagnostiche.
+IT100415.xml,5," All’esame obiettivo, oltre ad un valore di PA di 145/95 mmHg, si riscontra un rinforzo del secondo tono sul focolaio aortico."
+IT100415.xml,6," All’esame obiettivo del torace si apprezza un murmure aspro su tutto l’ambito polmonare e all’esame obiettivo dell’addome, assenza di dolenzia alla palpazione profonda e superficiale, con organi ipocondriaci all’arco."
+IT100415.xml,7," Gli esami di laboratorio evidenziano un’alterata glicemia a digiuno (110 mg/dL) e un lieve aumento delle transaminasi (GOT: 50 U/L, GPT: 60 U/L)."
+IT100415.xml,8, ECG: ritmo sinusale con frequenza cardiaca di 75 b/minuto.
+IT100415.xml,9," All’ecografia dell’addome: presenza di brigth disomogeneo, in assenza di lesioni focali e versamento in addome."
+IT100415.xml,10, RX torace: incremento della trama bronco vascolare con assenza di lesioni focali.
+IT100415.xml,11, Ecografia cardiaca: nella norma.
+IT100415.xml,12, Esame EGDS: segni di gastrite aspecifica.
+IT100415.xml,13, HP negativo.
+IT100415.xml,14, Per tale motivo viene iniziata terapia con farmaci antiipertensivi: TRIATEC 5 mg una compressa <set al mattino <pad><pad><pad>1<pad><pad><pad><pad>>  associata a terapia anti reflusso: ANTRA 20 mg e PERIDON 10 mg prima dei pasti.
+IT100415.xml,15," La paziente viene dimessa col consiglio di assumere un regime dietetico alimentare corretto, evitando cibi reflussogeni, quali caffè, menta, thè, spezie, di osservare una buona masticazione, di utilizzare cibi ben cotti."
+IT100415.xml,16, Viene consigliato inoltre di ridurre l’utilizzo del sale e l’abolizione completa dell’abitudine tabagica.
+IT100415.xml,17," Dopo <date tre settimane <pad><pad>3<pad><pad><pad><pad><pad>>  la paziente rientra riferendo assenza di miglioramento della sintomatologia clinica, nonostante la terapia e la modifica dello stile di vita."
+IT100415.xml,18, La paziente viene rivisitata.
+IT100415.xml,19," L’esame obiettivo risulta invariato rispetto al precedente, fatta eccezione per l’evidenza di una riduzione della pressione arteriosa (130/85 mmHg)."
+IT100415.xml,20, Ad un esame più accurato dell’addome si reperta all’auscultazione un soffio sistolico a livello epigastrico.
+IT100415.xml,21," La paziente viene sottoposta ad esame EcoColorDoppler (ECD) dei vasi addominali da cui emerge: stenosi emodinamica del tripode celiaco, con presenza di ectasia post-stenotica."
+IT100415.xml,22," Generalmente, nel paziente affetto da aterosclerosi pluridistrettuale, il ritrovamento all’ECD di una stenosi asintomatica del tripode celiaco è un evento abbastanza frequente."
+IT100415.xml,23," Poiché la paziente però, non presentava localizzazione di malattia aterosclerotica in nessun distretto, è stata sospettata una patologia da legamento arcuato, che ben si evidenzia all’ECD durante gli atti respiratori forzati."
+IT100415.xml,24, Viene effettuata Angio-TC addome per conferma diagnostica che ben evidenzia la costrizione del tronco celiaco da parte del legamento arcuato.
+IT100415.xml,25, La paziente avendo attualmente una sintomatologia saltuaria è in attuale controllo clinico-strumentale in previsione di un intervento chirurgico.
+IT100010.xml,1,"È descritto il caso clinico di una donna di 84 anni, forte fumatrice per <duration circa 30 anni 30<pad><pad><pad><pad><pad><pad><pad>> "
+IT100010.xml,2, Non familiarità per malattie renali.
+IT100010.xml,3," Principali rilievi anamnestici: ipertensione arteriosa da <duration almeno 20 anni 20<pad><pad><pad><pad><pad><pad><pad>> controllata dalla terapia farmacologica (calcio antagonisti, diuretici), colelitiasi, ipotiroidismo in terapia sostitutiva ormonale."
+IT100010.xml,4, Non disturbi dell’udito.
+IT100010.xml,5, All’età di 70 anni quadrantectomia mammaria destra per carcinoma.
+IT100010.xml,6," All’età di 80 anni la paziente effettuava due ricoveri durante i quali venivano evidenziati addensamenti polmonari multipli, bilaterali e veniva posta diagnosi di “Alveolite allergica estrinseca”."
+IT100010.xml,7, In tale occasione era esclusa patologia infettiva e prescritto steroide a seguito del quale la paziente presentava un miglioramento del quadro clinico; non dati disponibili sulla funzione renale.
+IT100010.xml,8," <date nel 2005 2005<pad><pad><pad><pad><pad><pad><pad><pad> >  all’età di 82 anni, la paziente era ricoverata per insufficienza renale acuta rapidamente progressiva (creatininemia 1,5→6 mg/dL) e insufficienza respiratoria."
+IT100010.xml,9," Dal punto di vista sistemico la paziente presentava dolori osteoarticolari diffusi, febbricola e tosse secca con un solo episodio di emottisi."
+IT100010.xml,10, Alla radiografia del torace venivano evidenziati addensamenti polmonari bilaterali.
+IT100010.xml,11," La TC del torace mostrava aspetto a vetro smerigliato del parenchima polmonare, edema alveolare, addensamenti parenchimali multipli."
+IT100010.xml,12, Un ecocardiogramma risultava nella norma per l’età.
+IT100010.xml,13, La paziente effettuava una broncoscopia che mostrava un albero tracheobronchiale nella norma; l’esame citologico del liquido alveolare mostrava la presenza di numerosi macrofagi contenenti pigmento emosiderinico.
+IT100010.xml,14," Gli esami colturali (germi comuni, BK) risultavano negativi."
+IT100010.xml,15, La paziente eseguiva agobiopsia renale che evidenziava un quadro istologico di glomerulonefrite crescentica necrotizzante con depositi lineari di IgG nelle membrane basali glomerulari compatibile con S. di Goodpasture.
+IT100010.xml,16, Presenza nel siero di anticorpi antimembrana basale glomerulare (anti MBG); negativa la ricerca di anticorpi anti citoplasma dei neutrofili (ANCA).
+IT100010.xml,17," La paziente praticava terapia steroidea dapprima ev poi per os, boli mensili di ciclofosfamide e plasmaferesi con risoluzione del quadro clinico e negativizzazione degli anti MBG."
+IT100010.xml,18, La paziente assumeva terapia immunosoppressiva con acido micofenolico e cortisone per oltre <duration un anno 1<pad><pad><pad><pad><pad><pad><pad>> 
+IT100010.xml,19, Nel corso di questo periodo anti MBG e ANCA sempre negativi.
+IT100010.xml,20," La creatinina oscillava tra 1,5-2 mg/dL con proteinuria sempre < 1 g die."
+IT100010.xml,21," All’età di 84 anni dopo <duration circa 6 mesi <pad>6<pad><pad><pad><pad><pad><pad>> dalla sospensione della terapia immunosoppressiva recidiva di malattia con grave riacutizzazione dell’insufficienza renale, con necessità di emodialisi e della patologia polmonare."
+IT100010.xml,22," Il quadro laboratoristico evidenziava negatività degli anti MBG e comparsa di positività dei p-ANCA pur se a titolo non elevato (IFI 1:80; EIA 9,6)."
+IT100010.xml,23, L’esame TC torace mostrava presenza di limitato ispessimento di natura reticolare e reticolo-nodulare della trama interstiziale.
+IT100010.xml,24, Non eseguita broncoscopia per impossibilità da parte della paziente a sostenere l’esame.
+IT100010.xml,25," Negativi gli esami colturali (escreatocoltura, urinocoltura)."
+IT100010.xml,26, Nell’ipotesi di una riattivazione della malattia autoimmunitaria e con l’evidenza di esami colturali negativi la paziente praticava nuovamente boli di cortisone ev ma l’evoluzione clinica era complicata da polmonite da K. pneumoniae che determinava rapidamente il decesso della paziente.
+IT100402.xml,1,Gli autori riportano il caso clinico recentemente osservato di una insolita complicanza chirurgica occorsa nel post angiografia coronarica.
+IT100402.xml,2, G.F.
+IT100402.xml,3," (maschio, 59 anni) veniva sottoposto a ricovero in virtù di un’ingravescente dispnea associata ad angina per sforzi di modesta entità."
+IT100402.xml,4," In anamnesi: Cardiopatia dilatativa (a verosimile etiologia post-ischemica); fibrillazione atriale permanente; sindrome metabolica con obesità grave (H, W, BSA sec."
+IT100402.xml,5, Mosteller formula); BPCO (con riserva per OSAS).
+IT100402.xml,6," Nel recente passato (<date 2010 2010<pad><pad><pad><pad><pad><pad><pad><pad> > , il paziente era stato sottoposto ad impianto di endoprotesi per AAA."
+IT100402.xml,7, La presenza di familiarità per CAD ed il forte tabagismo rappresentavano gli ulteriori fattori di rischio per malattie cardiovascolari.
+IT100402.xml,8," L’esame coronarografico, praticato dopo aver sottoposto il paziente ai comuni profili ematochimici d’ingresso ed agli esami strumentali cardiologici di primo livello, non rivelò la presenza di lesioni coronariche degne di rilievo concludendo per “arterie coronarie angiograficamente indenni”."
+IT100402.xml,9," <duration il giorno <pad><pad><pad>1<pad><pad><pad><pad>> seguente alla procedura angiografica il paziente esibì una sintomatologia, dapprima larvata, caratterizzata da cefalea, nausea ed epigastralgia, quindi, in rapida sequenza, il quadro clinico si complicava con la comparsa di febbre, epigastralgia refrattaria ai comuni trattamenti farmacologici e seria compromissione delle stato generale caratterizzata da rialzo delle transaminasi, iperamilasemia, leucocitosi fino alla necessità di sostegno cardiorespiratorio avanzato."
+IT100402.xml,10," Nonostante le avverse premesse, l’etiologia della complicanza chirurgica addominale, davvero inusuale, veniva identificata rapidamente, ed il paziente veniva sottoposto ad intervento chirurgico d’urgenza."
+IT100402.xml,11," Il decorso postoperatorio non dava adito ad ulteriori complicazioni, consentendo di dimettere il paziente in <date sesta giornata <pad><pad><pad>6<pad><pad><pad><pad>> "
+IT100368.xml,1,"Donna di 73 anni con anamnesi negativa per rischio cardiovascolare, in terapia con coumadin <date dal 1987 1987<pad><pad><pad><pad><pad><pad><pad><pad> > per intervento di sostituzione valvolare mitralica con protesi meccanica."
+IT100368.xml,2, FAP <date dal 1997 1997<pad><pad><pad><pad><pad><pad><pad><pad> > 
+IT100368.xml,3, A <date dicembre 2012 2012 12<pad><pad><pad><pad><pad><pad><pad> > effettua vaccino antinfluenzale con successiva comparsa di astenia e dispnea.
+IT100368.xml,4, <duration nei giorni seguenti <pad><pad><pad>x<pad><pad><pad><pad>> comparsa di ittero ed urine ipercromiche per cui la paziente accede in pronto soccorso.
+IT100368.xml,5," Ecografia e TC con mdc negative per ostruzione biliare, lesioni focali, calcolosi o dilatazione delle vie biliari."
+IT100368.xml,6," Gli esami ematici mettono in evidenza una anemia emolitica: Hb 8,6 g/dL; LDH 2138 U/L; Bilirubina 6,80 mg/dL prevalentemente indiretta; Aptoglobina consumata <0,06 g/L; Ferritina 202 ng/mL."
+IT100368.xml,7," Il Test di Coombs risulta negativo, mentre lo striscio periferico conferma la presenza di una emolisi-intravascolare con 3 schistociti per campo."
+IT100368.xml,8," Dai risultati ottenuti, pertanto, le possibili cause fisiopatologiche consistono con maggiore probabilità nell’Emoglobinuria Parossistica Notturna o nell’Emolisi Meccanica: il test di Ham risulta negativo mentre l’EcoTT, confermato da quello TE, evidenziano un rigurgito paravalvolare moderato-grave sul contorno mitralico posteriore (PVL)."
+IT100368.xml,9, Il PVL complica fino al 20% degli interventi di sostituzione valvolare.
+IT100368.xml,10, Richiede una correzione chirurgica se induce scompenso cardiaco o anemia emolitica refrattaria.
+IT100368.xml,11, L’intervento per via percutanea secondo recenti studi ha successo in oltre il 70% dei casi a fronte di una probabilità di eventi avversi maggiori a <duration 30 giorni <pad><pad><pad>30<pad><pad><pad><pad>> di circa l’8%.
+IT100368.xml,12, In circa il 30% dei pazienti trattati può residuare o addirittura peggiorare l’emolisi intravascolare.
+IT101061.xml,1,Il signor Giuseppe di 85 anni viene ricoverato nell’UO di Medicina per Insufficienza Respiratoria e ipertermia.
+IT101061.xml,2," È in leggero stato confusionale, necessita di aiuto perché non autosufficiente nei movimenti."
+IT101061.xml,3, Presenta tosse insistente con emissione di escreato.
+IT101061.xml,4, Dal colloquio con i familiari e la consultazione della documentazione sanitaria risulta che in giovane età aveva contratto la tubercolosi polmonare.
+IT101061.xml,5, Ha in atto terapia antibiotica e infusione di soluzioni saline per idratazione.
+IT101061.xml,6," Proviene dal proprio domicilio, dove vive con la moglie, che è molto presente anche in ospedale <duration nelle ore della giornata <pad><pad><pad><pad>x<pad><pad><pad>>  insieme ai due figli."
+IT100753.xml,1,"Paziente di sesso maschile, razza caucasica, di anni 55 ed in apparente buone condizioni di salute fino a <duration 4-5 giorni <pad><pad><pad>x<pad><pad><pad><pad>> prima del ricovero."
+IT100753.xml,2, Motivo del ricovero: melena e gengivorragia.
+IT100753.xml,3," In anamnesi: familiarità per K colon; nella personale: epatopatia cronica HCV relata, ipertensione arteriosa in terapia con calcio- antagonista, polipectomia in corso di colonscopia <date due anni prima <pad><pad><pad>resta 2 y<pad><pad><pad><pad> >  con riferita negatività per patologia neoplastica."
+IT100753.xml,4, Da allora nessun successivo controllo clinico.
+IT100753.xml,5, All’ingresso in Reparto le condizioni generali erano discrete.
+IT100753.xml,6," All’esame obiettivo presenza di ecchimosi cutanee agli arti e al dorso, gengivorragia; organi ipocondriaci nei limiti."
+IT100753.xml,7," Agli esami ematochimici praticati in PS anemizzazione (Hg 7.8 g/dl), piastrinopenia grave (4.000 u/l), profilo epatico alterato (AST 152 UI/l, ALT 238 UI/L, GGT 102 UI/L)."
+IT100753.xml,8, All’ingresso in Reparto esami ematochimici sovrapponibili a quelli praticati in PS.
+IT100753.xml,9," Vengono praticati oltre ai comuni esami di laboratorio: profilo reumatologico, sottopopolazioni linfocitarie, crioglobulinemia, HCV-RNA quali/quantitativo (risultati poi) negativi."
+IT100753.xml,10," Il Consulente ematologo pratica mieloaspirato in sede sternale (non cellule atipiche, estrema povertà dei precursori piastrinici)."
+IT100753.xml,11, Viene prescritta terapia con metilprednisolone 40 mg <set due volte al dì <pad><pad><pad>1<pad><pad><pad><pad>> ed emotrasfusione.
+IT100753.xml,12," Dopo <duration circa 3 giorni <pad><pad><pad>3<pad><pad><pad><pad>> nonostante la terapia cortisonica in atto, i valori delle piastrine si riducono (2000 u/l) e viene aggiunta terapia con Immunoglobulina Umana Normale e, al bisogno vengono praticati concentrati piastrinici e sacche di emazie concentrate, con persistenza di piastrinopenia grave."
+IT100753.xml,13, <date al quinto giorno <pad><pad><pad>5<pad><pad><pad><pad> > ancora nessuna risposta alla terapia.
+IT100753.xml,14," Nel corso del ricovero (durante il quale è stata sottoposta a TAC total-body (negativa), EGDS con biopsia risultata positiva per gastropatia cronica atrofica e varici esofagee F1) il quadro ematologico non si è modificato; non c’è adeguata risposta al regime terapeutico in atto e si procede, sospesa la terapia con immunoglobuline, ad aggiungere sempre alla terapia cortisonica, Revolade (Eltrombopag) 50 mg 1 compressa <set al mattino <pad><pad><pad>1<pad><pad><pad><pad>> "
+IT100753.xml,15," Anche quest’ultima associazione terapeutica dopo un periodo congruo di trattamento, associato a trasfusioni di concentrati eritrocitari, non sortisce l’effetto desiderato."
+IT100753.xml,16, Intanto vengono espletate le indagini strumentali richieste che non evidenziano alterazioni particolari.
+IT100753.xml,17, In accordo con il consulente ematologo si decide di associare al metilprednisolone 40 x <set 2 volte al dì <pad><pad><pad>1<pad><pad><pad><pad>> e Rituximab 1 flacone <set a settimana <pad><pad>1<pad><pad><pad><pad><pad>> per <duration tre settimane <pad><pad>3<pad><pad><pad><pad><pad>> 
+IT100753.xml,18, Questa associazione ha portato ad un incremento graduale e costante delle piastrine ed il paziente è stato dimesso con terapia cortisonica.
+IT101060.xml,1,"IL signor Massimo di 86 anni, da <date stamani <pad><pad><pad>neutro 0 d<pad><pad><pad>tmo> manifesta dispnea, affaticabilità nelle attività di vita quotidiane, confusione mentale."
+IT101060.xml,2," La moglie, viste le condizioni generali di salute, rileva la temperatura corporea che risulta 38,5 °C."
+IT101060.xml,3, Decide quindi di chiamare il Medico della Continuità ssistenziale che all’auscultazione rileva “sfregamenti” alla base polmonare di destra.
+IT101060.xml,4, Visto che il paziente ha avuto un infarto <date 6 mesi fa <pad><pad><pad>resta 6 m<pad><pad><pad><pad>>  si decide per il ricovero.
+IT101060.xml,5, In Ospedale il medico di Pronto Soccorso fa diagnosi di “broncopolmonite destra” e decide di prescrivere una terapia antibiotica per via intramuscolare da eseguire per <duration 7 giorni <pad><pad><pad>7<pad><pad><pad><pad>> 
+IT101104.xml,1,"Il signor Giacinto, di anni 54, è in cura presso il proprio domicilio da <duration 15 giorni <pad><pad><pad>15<pad><pad><pad><pad>> in coma post-anossico per un arresto cardio-respiratorio."
+IT101104.xml,2," Giacinto si presenta con tracheostomia in respiro spontaneo, ha in corso una nutrizione enterale totale tramite PEG e un catetere vescicale."
+IT101104.xml,3," L'Infermiera dell'assistenza domiciliare si reca come <set tutte le mattine <pad><pad><pad>1<pad><pad><pad><pad>> a casa del signore e mentre sta eseguendo un broncolavaggio con aspirazione bronchiale, si avvicina la figlia e dal colloquio emerge che durante <date la giornata <pad><pad><pad>neutro 0 d<pad><pad><pad><pad> > suona l'allarme della pompa per la nutrizione enterale e la figlia chiede chiarimenti."
+IT100742.xml,1,"Donna, 56 anni."
+IT100742.xml,2, Anamnesi: rettocolite ulcerosa (RCU).
+IT100742.xml,3," Ricoverata per disordini elettrolitici secondari a diarrea, anche su indicazione del gastroenterologo consulente, veniva sottoposta a colonscopia, con diagnosi di fase attiva di RCU."
+IT100742.xml,4," Dopo <duration 24 ore <pad><pad><pad><pad>24<pad><pad><pad>> trascorse in assenza di sintomi, la pz riferiva “mal di gola”."
+IT100742.xml,5," All’esame clinico: evidenza di rigonfiamento alla base del collo, ed alla palpazione: crepitio classicamente suggestivo di enfisema sottocutaneo."
+IT100742.xml,6," Le tecniche di imaging, immediatamente praticate, documentavano pneumomediastino e retropneumoperitoneo, con la ovvia conclusione diagnostica di microperforazione colica in corso di colonscopia."
+IT100742.xml,7, La pz veniva sottoposta ad intervento chirurgico.
+IT101073.xml,1,Il Sig.
+IT101073.xml,2," Enzo, di anni 58, si presenta <date la sera del sabato <pad><pad><pad>neutro 6 dayw<pad><pad><pad>tev> in P.S. riferendo emissione di sangue durante l’evacuazione ed ematemesi di scarsa entită Enzo appare lucido e orientato."
+IT101073.xml,3, Il paziente ha una storia di alcoolismo con epatopatia alcolica successivamente evoluta in cirrosi epatica; viene riferito anche un recente ricovero per emorragia da varici esofagee.
+IT101073.xml,4," Enzo è accompagnato dal figlio, che è molto preoccupato per il padre, il quale da <duration un anno 1<pad><pad><pad><pad><pad><pad><pad>> ormai vive praticamente da solo, perché la madre è morta di tumore e lui, nonostante sia scapolo, lavora fuori città e torna a casa solo per <duration il fine settimana <pad><pad><pad>x<pad><pad><pad><pad>> "
+IT101106.xml,1,"La signora Lucia, trentotto anni, affetta da Sindrome Laterale Amiotrofica in fase avanzata, rientra al proprio domicilio, in dimissione programmata."
+IT101106.xml,2, Ha trascorso <duration un periodo <pad><pad><pad>x<pad><pad><pad><pad>> di cura presso l’U.O.
+IT101106.xml,3," Rianimazione, per atelettasia polmonare sinistra."
+IT101106.xml,4," La signora Lucia ha una tracheostomia; le è stato prescritto esercizi di ginnastica respiratoria con ventilatore pressometrico, da eseguire <set quattro volte al giorno <pad><pad><pad>1<pad><pad><pad><pad>> "
+IT101106.xml,5," Per permettere alla signora Lucia di seguire il programma di ginnastica respiratoria, è stata istruita, dal personale infermieristico dell’UO Rianimazione, la madre (convivente), al momento appare molto spaventata e manifesta un senso di inadeguatezza alla situazione."
+IT100682.xml,1,"Donna di a. 63, anamnesi di malattia di Takayasu trattata con cortisone da <duration 10 anni 10<pad><pad><pad><pad><pad><pad><pad>>  diabete mellito, ipertensione."
+IT100682.xml,2," In seguito a trauma addominale accidentale, eseguiva tac addome con evidenza di distensione del colon e presenza di bolle aree nella parete e nel tessuto adiposo pericolico."
+IT100682.xml,3," Anche se asintomatica e obiettività addominale nella norma, eseguiva AngioTac addome che documentava pervio il tronco celiaco, a. mesenterica inferiore, diramazioni e asse mesenterico- portale."
+IT100682.xml,4, Alla colonscopia aspetto della mucosa mammelonata per presenza di cisti sottomucose pallide e bluastre che bioptizzate si sgonfiavano con sibilo sonoro.
+IT100682.xml,5, Considerata la benignità del quadro ed il riscontro occasionale la paziente era dimessa con indicazione a controlli endoscopici periodici.
+IT102056.xml,1,"Donna - aa. 30
+
+Anamnesi Patologica
+Asportazione di cisti dermoide dell’ovaio destro all’età di circa 20 anni."
+IT102056.xml,2,"
+
+Esordio della malattia attuale
+Dolore addominale, vomito biliare, febbre."
+IT102056.xml,3, Ricovero d’urgenza nel nostro reparto con diagnosi di addome acuto.
+IT102056.xml,4,"
+
+Esame obiettivo
+Paziente sofferente per dolore addominale, febbrile (38°C ascellare, 39,5°C rettale), tachicardica."
+IT102056.xml,5," Addome poco trattabile per contrattura muscolare di parete, soprattutto nel quadrante inferiore destro, dove la dolorabilità è particolarmente accentuata e dove sembra di palpare tumefazione a limiti indistinti."
+IT102056.xml,6, Forte dolorabilità del Douglas all’esplorazione rettale.
+IT102056.xml,7, Un’ecografia addominale non è contributiva.
+IT102056.xml,8, Espletati i consueti esami preoperatori (leucocitosi neutrofila) si conferma la diagnosi di addome acuto da presumibile appendicite acuta (ascesso appendicolare?)
+IT102056.xml,9, e in alternativa da possibile torsione ovarica destra.
+IT102056.xml,10,"
+Si procede a intervento chirurgico."
+IT102056.xml,11,"
+
+
+Intervento
+Open - laparoscopy ombelicale (Hasson trocar)."
+IT102056.xml,12,"
+Induzione di pneumoperitoneo CO2 - 12 mm Hg."
+IT102056.xml,13," Esplorazione della cavità peritoneale: si reperta grossa formazione grossolanamente sferica di circa 10 cm di diametro, che sostituisce in pratica l’ovaio di destra e aderisce al peritoneo parietale, al cieco, all’appendice e ai vasi iliaci."
+IT102056.xml,14, Nessuna altra constatazione patologica.
+IT102056.xml,15, Lisi delle aderenze e liberazione del cieco e dell’appendice che appaiono normali.
+IT102056.xml,16, Distacco della massa dai vasi iliaci e identificazione dell’uretere.
+IT102056.xml,17, Interruzione della tuba e dei vasi ovarici (bisturi armonico).
+IT102056.xml,18, Applicazione di clip su moncone tubarico residuo.
+IT102056.xml,19," Liberazione completa della massa, che è estratta in bag."
+IT102056.xml,20," Controllo dell’emostasi, lavaggio e toilette del cavo addominale."
+IT102056.xml,21, Evacuazione della CO2.
+IT102056.xml,22, Sutura degli accessi.
+IT102056.xml,23,"
+
+Anatomia Patologica
+Macroscopia - La massa di circa 10 cm ha colorito bluastro e al taglio si rivela di struttura cistica a parete ispessita e a contenuto liquido, denso, ematico."
+IT102056.xml,24, L’ovaio è ridotto a scarsi residui con altre cisti contenenti liquido chiaro.
+IT102056.xml,25,"
+Microscopia - Nelle sezioni istologiche eseguite previo adeguato, ampio campionamento la formazione cistica maggiore, a contenuto ematico, risulta rivestita internamente da più strati di elementi ad ampio citoplasma eosinofilo di tipo luteinico; le altre cisti minori sono di tipo follicolare."
+IT102056.xml,26,"
+Diagnosi: Ovaio con corpo luteo emorragico e cisti follicolari corticali
+
+
+Decorso post-operatorio regolare con dimissione dopo <duration pochi giorni <pad><pad><pad>x<pad><pad><pad><pad>> "
+IT102056.xml,27,"
+
+Follow-up e outcome senza particolarità degne di rilievo."
+IT101172.xml,1,"M.d., maschio di 9 anni giunge alla nostra osservazione per episodio di macroematuria terminale, con urine color rosso vivo, preceduto da dolore addominale intermittente <duration nelle due settimane precedenti <pad><pad>2<pad><pad><pad><pad><pad>> "
+IT101172.xml,2," Una prima ecografia renale eseguita all’ingresso evidenzia reni di normali dimensioni in assenza di calcoli, vie urinarie non dilatate e vescica a contenuto finemente corpuscolato."
+IT101172.xml,3," Gli accertamenti ematologici ed urinari di primo livello hanno permesso di escludere le più comuni cause di macroematuria del bambino, in particolare la glomerulonefrite post-infettiva, la calcolosi renale e l’infezione urinaria."
+IT101172.xml,4," Dopo <duration 2 giorni <pad><pad><pad>2<pad><pad><pad><pad>>  per il persistere della macroematuria, ripetiamo un’ecografia renale che mette in evidenza una “idroureteronefrosi dx con materiale ipoecogeno non vascolarizzato a livello del calice inferiore, della pelvi e del tratto iniziale dell’uretere”, interpretati dal radiologo come possibile coagulo ematico."
+IT101172.xml,5," Tuttavia le ecografie ripetute <duration nei giorni successivi <pad><pad><pad>x<pad><pad><pad><pad>> hanno mostrato una sostanziale stabilità del quadro, rendendo poco probabile l’ipotesi formulata."
+IT101172.xml,6," Il riscontro di una ipereosinofilia periferica (e 1200/mmc) ci ha fatto ipotizzare una infezione da schistosoma, che raramente può causare nel bambino lesioni polipoidi sanguinanti di pelvi ed uretere; tuttavia la ricerca del parassita nelle urine è risultata negativa."
+IT101172.xml,7," Decidiamo quindi di eseguire una uro-angio-RM che ha permesso di evidenziare a livello della regione papillare del calice inferiore dx una formazione rotondeggiante del diametro di 15 mm ampiamente protrudente nel calice inferiore, con spiccata impregnazione di mdc."
+IT101172.xml,8," L’agobiopsia percutanea ecoguidata e la successiva nefrectomia hanno permesso di porre diagnosi di rabdomiosarcoma embrionale, variante botrioide."
+IT101172.xml,9," La massa neoplastica ha dimensioni di 5x2.5 cm, il restante parenchima renale, il tessuto adiposo ed i linfonodi sono indenni da neoplasia."
+IT101172.xml,10, Gli accertamenti strumentali e le biopsie ossee sono risultati negativi per localizzazioni secondarie di malattia.
+IT101004.xml,1,Il Sig.
+IT101004.xml,2, Giovanni di 68 anni si reca dal proprio medico curante perché da <duration 3 giorni <pad><pad><pad>3<pad><pad><pad><pad>> presenta ittero.
+IT101004.xml,3," Riferisce al medico che da <duration circa un mese <pad>1<pad><pad><pad><pad><pad><pad>> lamenta dolore in sede epigastrica, difficoltà durante la digestione; in <duration poco tempo <pad><pad><pad>x<pad><pad><pad><pad>> è dimagrito molto e si sente molto stanco."
+IT101004.xml,4, Il medico prescrive alcuni esami ematici ed un’ecografia all'addome.
+IT101004.xml,5, Dagli accertamenti ematici risultano alterati i marcatori tumorali e l'ecografia mostra una massa di origine tumorale a livello del Pancreas.
+IT101004.xml,6, Il Signore viene ricoverato nella U.O. di Chirurgia e sottoposto a tutti gli accertamenti del caso.
+IT101004.xml,7, L'équipe medica decide di eseguire un intervento chirurgico di resezione radicale.
+IT101004.xml,8, Il Sig.
+IT101004.xml,9, Giovanni appare molto disorientato e spaventato.
+IT100333.xml,1,"Una donna di 48 anni viene ricoverata in ambiente ospedaliero <date nell’agosto del 2011 2011 08<pad><pad><pad><pad><pad><pad><pad> > per la presenza, da circa <duration un mese <pad>1<pad><pad><pad><pad><pad><pad>>  di astenia marcata, gonfiore addominale e incremento ponderale."
+IT100333.xml,2," L’anamnesi patologica remota evidenzia un’ipertensione arteriosa scarsamente controllata dalla terapia farmacologica e una storia di ulcera gastrica, in terapia con inibitori di pompa protonica con risoluzione del quadro."
+IT100333.xml,3," Durante il ricovero vengono effettuati esami ematochimici con riscontro di: marcata anemia (Hb = 9,8 g/dl, vn = 12,0-16,0 g/dl); riduzione dell’ematocrito (ematocrito = 31,9%, vn = 37,0-47,0); leucocitosi neutrofila con linfocitopenia (neutrofili = 10,66 × 10³/μl, vn = 1,50-8,00 × 10³/μl; linfociti = 0,52 × 10³/μl, vn = 0,90-4,00 × 10³/μl); lieve rialzo delle transaminasi (GOT = 56 U/l, vn < 32 U/l; GPT = 89 U/l, vn < 31 U/l)."
+IT100333.xml,4, All’esame obiettivo non sono presenti alterazioni di rilievo.
+IT100333.xml,5," Per ricercare la causa dell’anemia vengono eseguite una esofagogastroduodenoscopia, che rileva una gastrite cronica in fase di lieve attività, e una pancolonscopia, risultata nella norma."
+IT100333.xml,6, Una ecotomografia dell’addome mostra la presenza di una massa in sede cefalo-pancreatica e di multiple formazioni nodulari a livello del parenchima epatico.
+IT100333.xml,7, La TC torace-addome conferma il quadro addominale e non evidenzia alterazioni patologiche a livello toracico.
+IT100333.xml,8," Per meglio caratterizzare la massa tumorale viene effettuata una biopsia epatica con riscontro di tessuto infiltrato da carcinoma neuroendocrino scarsamente differenziato (NEC con Ki67 = 55,9% secondo WHO 2010) positivo per sinaptofisina, enolasi neuronospecifica (NSE), cromogranina A (CgA) e citocheratina 7 e 9 Il dosaggio dei marcatori aspecifici di neoplasia neuroendocrina mostra un marcato incremento dell’NSE (NSE = 235 ng/ml, vn < 12,5 ng/ml) e della CgA sierica (CgA sierica = 354 ng/ml, vn < 35 ng/ml) e una scintigrafia con OctreoScan una debole positività per i recettori della somatostatina (SSTR) a livello della lesione pancreatica e di solo due lesioni epatiche."
+IT100333.xml,9, A <date novembre dello stesso anno <pad><pad><pad>neutro 4 dayw<pad><pad><pad><pad> > la paziente viene nuovamente ricoverata per l’insorgenza di uno stato settico secondario a meningite da Listeria monocytogenes e per multipli focolai bronco-pneumonici da Staphylococcus aureus meticillino-resistente.
+IT100333.xml,10," Gli esami ematochimici rilevano una severa leucopenia e ipokaliemia, quest’ultima scarsamente responsiva alla terapia con potassio per via parenterale."
+IT100333.xml,11," Si osserva inoltre la comparsa di un quadro clinico caratterizzato da incremento glicemico e modificazione dell’obiettività con comparsa di cute bronzina, ittero, ipertricosi, alterata distribuzione del pannicolo adiposo sottocutaneo con gibbo."
+IT100333.xml,12," L’elevata suscettibilità alle infezioni, l’ipertensione, l’ipopotassiemia, il riscontro di elevati livelli glicemici e un caratteristico habitus, in presenza di una neoplasia endocrina pancreatica pongono il sospetto di sindrome di Cushing da secrezione ectopica di ACTH."
+IT100333.xml,13," Per confermare tale sospetto viene effettuato il dosaggio degli ormoni corticotropi con riscontro di elevati livelli di ACTH (ACTH = 338 pg/ml, vn = 5-60 pg/ml), di cortisolo circolante (cortisolo circolante > 630 ng/ml, vn = 62-194 ng/ml) e di cortisolo libero urinario (cortisolo libero urinario > 630 mg/die, vn = 36-137 mg/die)."
+IT100333.xml,14," Successivamente viene eseguita una nuova valutazione immunoistochimica su tessuto tumorale che evidenzia una forte positività per cellule secernenti ACTH, confermando quindi definitivamente la diagnosi di neoplasia neuroendocrina a produzione di ACTH."
+IT100333.xml,15, A <date novembre del 2011 2011 11<pad><pad><pad><pad><pad><pad><pad> > l’instaurarsi di uno stato di shock settico determina il decesso della paziente per arresto cardio-circolatorio. rdio-circolatorio.
