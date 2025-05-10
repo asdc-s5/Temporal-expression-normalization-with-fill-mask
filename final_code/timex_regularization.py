@@ -39,10 +39,10 @@ def regularize_virs_date(attributes):
             vir_regularized[5] = parts[-1].split('MONTHS')[0]
             vir_regularized[6] = 'MONTHS'
             if operation == '-':
-                vir_regularized[4] = 'SUBTRACT'
+                vir_regularized[4] = 'RESTA'
                 rule = 'dwanchor_subtract'
             if operation == '+':
-                vir_regularized[4] = 'ADD'
+                vir_regularized[4] = 'SUMA'
                 rule = 'dwanchor_add'
         elif 'Sanchor' in vir:
             vir = vir.replace('Sanchor(', '').replace(')', '')
@@ -51,10 +51,10 @@ def regularize_virs_date(attributes):
             vir_regularized[5] = parts[-1][0:4]
             vir_regularized[6] = parts[-1][5:]
             if operation == '-':
-                vir_regularized[4] = 'SUBTRACT'
+                vir_regularized[4] = 'RESTA'
                 rule = 'sanchor_subtract_' + str(vir_regularized[6])
             if operation == '+':
-                vir_regularized[4] = 'ADD'
+                vir_regularized[4] = 'SUMA'
                 rule = 'sanchor_add_' + str(vir_regularized[6])
         elif 'Danchor' in vir:
             vir = vir.replace('Danchor(', '').replace(')', '')
@@ -64,10 +64,10 @@ def regularize_virs_date(attributes):
             if date_parts[1] != 'XX':
                 vir_regularized[1] = date_parts[1]
             if parts[0] == '+':
-                vir_regularized[4] = 'ADD'
+                vir_regularized[4] = 'SUMA'
                 rule = 'danchor_add'
             elif parts[0] == '-':
-                vir_regularized[4] = 'SUBTRACT'
+                vir_regularized[4] = 'RESTA'
                 rule = 'danchor_subtract'
         elif 'anchor' in vir:
             vir = vir.replace('anchor(', '').replace(')', '')
@@ -77,22 +77,22 @@ def regularize_virs_date(attributes):
                 vir_regularized[5] = parts[-1][0]
                 vir_regularized[6] = parts[-1][1:]
             if operation == '-':
-                vir_regularized[4] = 'SUBTRACT'
+                vir_regularized[4] = 'RESTA'
                 rule = 'anchor_subtract_' + str(vir_regularized[6])
                 vir_regularized[5] = parts[-1][0:len(parts[-1]) - 1]
                 vir_regularized[6] = parts[-1][len(parts[-1]) - 1]
             if operation == '+':
-                vir_regularized[4] = 'ADD'
+                vir_regularized[4] = 'SUMA'
                 vir_regularized[5] = parts[-1][0:len(parts[-1]) - 1]
                 vir_regularized[6] = parts[-1][len(parts[-1]) - 1]
                 rule = 'anchor_add_' + str(vir_regularized[6])
             if operation == 'x':
-                vir_regularized[4] = 'NEUTRAL'
+                vir_regularized[4] = 'NEUTRO'
                 vir_regularized[5] = 0
                 vir_regularized[6] = parts[-1]
                 rule = 'anchor_no_modification_' + str(vir_regularized[6])
             if operation == 'z':
-                vir_regularized[4] = 'NEUTRAL'
+                vir_regularized[4] = 'NEUTRO'
                 rule = 'anchor_dayw' + str(vir_regularized[6])
         elif str.isdigit(vir):
             if len(vir) == 3:
@@ -231,11 +231,11 @@ def regularize_virs_time_present(attributes, text):
         if 'anchor' in vir:
             anchor_parts = re.findall(r'\((.*?)\)', vir)[0].split(',')
             if anchor_parts[1] == 'z' or anchor_parts[1] == 'x':
-                vir_regularized_time[3] = 'NEUTRAL'
+                vir_regularized_time[3] = 'NEUTRO'
             elif anchor_parts[1] == '+':
-                vir_regularized_time[3] = 'ADD'
+                vir_regularized_time[3] = 'SUMA'
             elif anchor_parts[1] == '-':
-                vir_regularized_time[3] = 'SUBTRACT'
+                vir_regularized_time[3] = 'RESTA'
             if 'DAYW' in anchor_parts[2]:
                 vir_regularized_time[4] = 'DAYW'
                 vir_regularized_time[5] = anchor_parts[2].split('DAYW')[0]
@@ -243,7 +243,7 @@ def regularize_virs_time_present(attributes, text):
                 vir_regularized_time[4] = 0
                 vir_regularized_time[5] = anchor_parts[2]
         else:
-            vir_regularized_time[3] = 'NEUTRAL'
+            vir_regularized_time[3] = 'NEUTRO'
             vir_regularized_time[4] = 0
             vir_regularized_time[5] = 'D'
     for i, vir_char in enumerate(vir_regularized_time):
@@ -303,11 +303,11 @@ def regularize_virs_time(attributes):
                     vir_regularized[i+6] = part
                 rule = 'tanchor_time'
             if anchor_value[1] == 'z' or anchor_value[1] == 'x':
-                vir_regularized[3] = 'NEUTRAL'
+                vir_regularized[3] = 'NEUTRO'
             elif anchor_value[1] == '+':
-                vir_regularized[3] = 'ADD'
+                vir_regularized[3] = 'SUMA'
             elif anchor_value[1] == '-':
-                vir_regularized[3] = 'SUBTRACT'
+                vir_regularized[3] = 'RESTA'
             if 'DAYW' in anchor_value[2]:
                 vir_regularized[4] = 'DAYW'
                 vir_regularized[5] = anchor_value[2].split('DAYW')[0]
@@ -384,10 +384,10 @@ def regularize_virs_duration(attributes):
             if parts[1].lower() == 'y' or parts[1].lower() == 'm':
                 vir_regularized[1] = parts[1].upper()
                 if parts[0] == '+':
-                    vir_regularized[0] = 'ADD'
+                    vir_regularized[0] = 'SUMA'
                     rule = 'ranchor_add'
                 elif parts[0] == '-':
-                    vir_regularized[0] = 'SUBTRACT'
+                    vir_regularized[0] = 'RESTA'
                     rule = 'ranchor_subtract'
             else:
                 rule = 'ranchor_bad_unit'
