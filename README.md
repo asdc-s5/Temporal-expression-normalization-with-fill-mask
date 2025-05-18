@@ -7,7 +7,7 @@ For using the code, please refer to the README.md in the code folder.
 
 
 ## Citation
-
+```bibtex
 @article{10.1162/COLI.a.12,
     author = {Sánchez de Castro, Alejandro and Araujo, Lourdes and Martinez-Romo, Juan},
     title = {A Novel Methodology for Enhancing Cross-Language and Domain Adaptability in Temporal Expression Normalization},
